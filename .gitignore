@@ -1,7 +1,7 @@
-# ignore api keys
-api_key.py
-api_keys.py
+# Adding config.py file
 config.py
+api_keys.py
+api_key.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

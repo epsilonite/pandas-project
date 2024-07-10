@@ -3,6 +3,9 @@ config.py
 api_keys.py
 api_key.py
 
+# git
+California_Fire_Perimeters_-7970299229233288981.geojson
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

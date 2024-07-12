@@ -24,7 +24,7 @@ Does ignition source influence the beginning and end of fire season?
 - Average acreage spread per cause 
 - Look at human infrastructure layers
 ### Datasets
-
+Calfire: https://data.ca.gov/dataset/california-fire-perimeters-1950
 
 ## Acknowledgements + Citations
 US State Boundaries as geojson polygon from https://public.opendatasoft.com/explore/dataset/us-state-boundaries/export/

@@ -25,6 +25,7 @@ Does ignition source influence the beginning and end of fire season?
 - Look at human infrastructure layers
 ### Datasets
 Calfire: https://data.ca.gov/dataset/california-fire-perimeters-1950
+Huffman, G.J., E.F. Stocker, D.T. Bolvin, E.J. Nelkin, Jackson Tan (2023), GPM IMERG Final Precipitation L3 1 month 0.1 degree x 0.1 degree V07, Greenbelt, MD, Goddard Earth Sciences Data and Information Services Center (GES DISC), Accessed: [20240711], 10.5067/GPM/IMERG/3B-MONTH/07
 
 ## Acknowledgements + Citations
 US State Boundaries as geojson polygon from https://public.opendatasoft.com/explore/dataset/us-state-boundaries/export/

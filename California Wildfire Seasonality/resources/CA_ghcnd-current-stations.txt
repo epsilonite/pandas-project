@@ -1,0 +1,1190 @@
+USC00040006  39.0333 -122.4333  601.1 CA ABBOTT MINE                                 
+USC00040010  38.2178 -121.2014   26.5 CA ACAMPO 5NE                                  
+USC00040014  34.4939 -118.2714  863.5 CA ACTON ESCONDIDO FC261                       
+USC00040024  34.5833 -117.4167  869.0 CA ADELANTO                                    
+USC00040029  41.1933 -120.9444 1280.8 CA ADIN RS                                     
+USC00040046  33.4167 -116.9167  946.1 CA AGUANGA BERGMAN RCH                         
+USC00040047  33.4167 -116.8667  605.3 CA AGUANGA THOMSEN                             
+USC00040064  37.8667 -122.0333  125.0 CA ALAMO 1 N                                   
+USC00040080  34.3500 -118.0500 1310.6 CA ALDER CREEK                                 
+USC00040088  40.1833 -123.6167  139.9 CA ALDERPOINT                                  
+USC00040115  34.3167 -118.5500  721.5 CA ALISO CANYON OAT MTN F                      
+USC00040120  37.1833 -121.9833  167.9 CA ALMA                                        
+USC00040124  37.1667 -121.8167  153.0 CA ALMADEN                                     
+USC00040134  32.8500 -116.7500  688.8 CA ALPINE                                      
+USC00040136  32.8358 -116.7775  516.6 CA ALPINE                                      
+USC00040144  34.1822 -118.1383  343.5 CA ALTADENA                                    
+USC00040161  41.4903 -120.5439 1332.9 CA ALTURAS                                     
+USC00040162  41.5147 -120.3642 1617.6 CA ALTURAS 9 ENE                               
+USC00040174  34.1614 -115.8045  387.7 CA AMBOY ROAD EAST                             
+USC00040176  34.5592 -115.7442  197.5 CA AMBOY                                       
+USC00040188  34.0167 -119.3667   43.0 CA ANACAPA ISLAND                              
+USC00040192  33.8647 -117.8425   71.6 CA ANAHEIM                                     
+USC00040204  35.9833 -119.4833   64.0 CA ANGIOLA                                     
+USC00040212  38.5731 -122.4406  522.7 CA ANGWIN PACIFIC UNION COLLEGE                
+USC00040227  38.0167 -121.7667    8.5 CA ANTIOCH FIBREBRD MILLS                      
+USC00040230  37.9500 -121.8000  125.0 CA ANTIOCH 5 S                                 
+USC00040232  37.9833 -121.7525   18.3 CA ANTIOCH PUMPING PLT #3                      
+USC00040235  33.5558 -116.6739 1193.3 CA ANZA                                        
+USC00040239  34.8667 -119.3333 1516.1 CA APACHE CAMP                                 
+USC00040244  34.5167 -117.2167  894.6 CA APPLE VALLEY                                
+USC00040320  35.1167 -120.5667   34.1 CA ARROYO GRANDE                               
+USC00040322  36.2356 -121.4800  286.5 CA ARROYO SECO                                 
+USC00040325  36.2500 -121.4167  214.0 CA ARROYO SECO MILLERS LG                      
+USC00040327  34.2167 -118.1667  371.9 CA ARROYO SECO RNG STN FC                      
+USC00040332  35.2111 -118.8336  137.2 CA ARVIN                                       
+USC00040343  36.4914 -118.8253  520.6 CA ASH MTN                                     
+USC00040355  33.9000 -117.8833  103.9 CA ASSOC OIL ANAHEIM 1                         
+USC00040372  38.4167 -122.2500  531.0 CA ATLAS ROAD                                  
+USC00040379  37.0919 -119.5128  637.0 CA AUBERRY 2 NW                                
+USC00040383  38.9072 -121.0839  393.8 CA AUBURN                                      
+USC00040385  38.8833 -121.0667  387.1 CA AUBURN DAM PROJECT                          
+USC00040395  33.3500 -118.3167    7.6 CA AVALON PLEASURE PIER                        
+USC00040398  35.9000 -120.0500  159.1 CA AVENAL 9 SSE                                
+USC00040403  35.1667 -120.7333    9.1 CA AVILA BEACH                                 
+USC00040410  34.1333 -117.9000  185.9 CA AZUSA CITY PARK FC 143                      
+USC00040418  34.9500 -118.1833  808.0 CA BACKUS RCH                                  
+USC00040422  36.6286 -119.0117  932.7 CA BADGER                                      
+USC00040436  35.2761 -116.0628  293.2 CA BAKER                                       
+USC00040437  35.3833 -116.1167  320.0 CA BAKER 9 NNW                                 
+USC00040439  35.3833 -119.0167  121.9 CA BAKERSFIELD                                 
+USC00040444  35.4186 -119.0508  143.3 CA BAKERSFIELD 5 NW                            
+USC00040449  36.9092 -119.0883  528.8 CA BALCH PWR HOUSE                             
+USC00040503  35.1658 -118.6439 1249.7 CA BEAR VALLEY FD                              
+USC00040509  33.9333 -117.8500  177.1 CA BARNESON PARK                               
+USC00040510  38.9167 -122.8667  497.1 CA BARNEY                                      
+USC00040514  32.6833 -116.6667  494.1 CA BARRETT DAM                                 
+USC00040519  34.9000 -117.0333  659.0 CA BARSTOW                                     
+USC00040521  34.8928 -117.0219  676.7 CA BARSTOW                                     
+USC00040539  39.6175 -120.5922 1663.3 CA BASSETS STN                                 
+USC00040543  34.9167 -119.9167 1577.0 CA BATES RIDGE                                 
+USC00040595  38.4406 -120.0761 2103.1 CA BEAR VALLEY                                 
+USC00040606  33.9292 -116.9750  796.4 CA BEAUMONT                                    
+USC00040607  33.9833 -116.9667  929.9 CA BEAUMONT PUMPING PLT                        
+USC00040615  40.3500 -122.8667  392.9 CA BEEGUM                                      
+USC00040619  34.0833 -118.4500  164.9 CA BEL AIR FC 10A                              
+USC00040625  34.2000 -118.6500  281.0 CA BELL CANYON PLATT RCH                       
+USC00040672  37.0833 -122.0833   91.4 CA BEN LOMOND SPRR                             
+USC00040673  37.0856 -122.0797  128.0 CA BEN LOMOND #4                               
+USC00040674  37.0833 -122.1000  153.0 CA BEN LOMOND 2                                
+USC00040675  37.0833 -122.1000  305.1 CA BEN LOMOND WHITNEY                          
+USC00040676  37.1000 -122.0833  116.1 CA BEN LOMOND 2                                
+USC00040677  37.0833 -122.0667  220.1 CA BEN LOMOND 4                                
+USC00040678  34.1667 -117.4500  563.9 CA BENNETT RCH                                 
+USC00040682  38.2500 -121.4333    6.1 CA BENSONS FERRY                               
+USC00040684  37.8428 -118.4783 1664.2 CA BENTON INSPECTION STN                       
+USC00040693  37.8744 -122.2606   94.5 CA BERKELEY                           HCN      
+USC00040705  38.5500 -122.2333  139.9 CA BERRYESSA LAKE                              
+USC00040719  34.9167 -120.3500   49.1 CA BETTERAVIA                                  
+USC00040721  41.8167 -122.5000  808.0 CA BETTS RCH                                   
+USC00040731  41.1208 -121.1347 1257.3 CA BIEBER                                      
+USC00040738  40.7406 -123.2078  381.9 CA BIG BAR 4 E                                 
+USC00040741  34.2431 -116.9169 2058.3 CA BIG BEAR LAKE                               
+USC00040742  34.2414 -116.9744 2077.2 CA BIG BEAR LAKE DAM                           
+USC00040747  39.3000 -120.5167 1751.1 CA BIG BEN RS                                  
+USC00040755  37.2064 -119.2419 1486.8 CA BIG CREEK PH 1                              
+USC00040758  34.1667 -117.8167  484.9 CA BIG DALTON DAM FC223C                       
+USC00040779  34.3833 -117.6833 2086.4 CA BIG PINES PARK FC83B                        
+USC00040790  36.2472 -121.7803   61.0 CA BIG SUR STN                                 
+USC00040798  34.2947 -118.1886  709.0 CA BIG TUJUNGA DAM FC46                        
+USC00040818  34.1833 -118.5000  220.1 CA BIRMINGHAM GEN HOSP                         
+USC00040819  37.2481 -118.5814 2485.3 CA BISHOP CREEK INTAKE 2                       
+USC00040820  37.2322 -118.5994 2581.7 CA ASPENDELL                                   
+USC00040823  37.3878 -118.4142 1274.4 CA BISHOP                                      
+USC00040824  37.3667 -118.7167 2863.9 CA BISHOP UNION CARBIDE                        
+USC00040850  37.3167 -122.1667  646.2 CA BLACK MTN 2 WSW                             
+USC00040855  37.3167 -122.1500  798.9 CA BLACK MTN LOS ALTOS                         
+USC00040870  40.7333 -121.2500 1708.1 CA BLACKS MTN RCH                              
+USC00040875  35.6167 -119.9000  217.0 CA BLACKWELLS CORNER                           
+USC00040903  40.9167 -123.8167  299.0 CA BLUE LK REDWOOD CK                          
+USC00040924  33.6139 -114.5978   81.7 CA BLYTHE                             HCN      
+USC00040931  39.3886 -120.0936 1699.3 CA BOCA                                        
+USC00040943  38.2119 -119.0142 2551.2 CA BODIE CALIFORNIA ST HISTORIC P              
+USC00040968  32.6667 -117.0333   34.1 CA BONITA                                      
+USC00040973  39.0167 -123.3667  103.9 CA BOONVILLE HMS                               
+USC00040983  33.2558 -116.4036  246.9 CA BORREGO DESERT PARK                         
+USC00040986  33.2833 -116.3500  192.0 CA BORREGO SPRINGS 3 NNE                       
+USC00041001  37.1167 -122.1167  143.3 CA BOULDER CREEK                               
+USC00041005  37.1422 -122.1964  662.9 CA BOULDER CR LOCAT RCH                        
+USC00041009  32.6667 -116.2833 1022.0 CA BOULEVARD                                   
+USC00041010  32.6667 -116.3000 1097.3 CA BOULEVARD 2                                 
+USC00041013  34.5833 -118.3667  933.0 CA BOUQUET CANYON                              
+USC00041018  39.4539 -120.6556 1641.3 CA BOWMAN DAM                                  
+USC00041031  33.4833 -116.8000 1022.0 CA BRADFORD RCH                                
+USC00041034  35.8667 -120.8000  164.9 CA BRADLEY                                     
+USC00041043  38.1167 -121.7000    9.1 CA BRANNAN ISLAND                              
+USC00041046  39.7000 -123.6500  445.0 CA BRANSCOMB 3 NNW                             
+USC00041048  32.9544 -115.5581  -30.5 CA BRAWLEY 2 SW                       HCN      
+USC00041054  33.9167 -117.9000  107.0 CA BREA BERRY & IMPERI                         
+USC00041056  33.9333 -117.9000  116.1 CA BREA CY SHAFFER TOOL W                      
+USC00041057  33.8906 -117.9264   83.8 CA BREA DAM                                    
+USC00041060  37.8833 -121.7667   99.1 CA BRENTWOOD 6 SW                              
+USC00041072  38.2575 -119.2286 1972.1 CA BRIDGEPORT                                  
+USC00041075  38.3167 -119.2167 1958.0 CA BRIDGEPORT DAM                              
+USC00041076  38.2506 -119.2161 1963.2 CA BRIDGEPORT RS                               
+USC00041080  40.5194 -123.8217  640.1 CA BRIDGEVILLE 4 NNW                           
+USC00041082  40.5500 -123.8167  793.1 CA BRIDGEVILLE HANSON RCH                      
+USC00041109  38.7333 -122.1500  107.0 CA BROOKS                                      
+USC00041112  38.7667 -122.1500   89.6 CA BROOKS FARNHAM RCH                          
+USC00041130  39.6950 -121.3453 1085.1 CA BRUSH CREEK RS                              
+USC00041142  35.7989 -121.0939  281.9 CA BRYSON                                      
+USC00041149  40.8797 -121.9317 1127.8 CA BUCKHORN                                    
+USC00041159  39.9372 -121.3147  576.4 CA BUCKS CREEK                                 
+USC00041161  39.9000 -121.2000 1585.9 CA BUCKS LAKE                                  
+USC00041170  36.7667 -121.1833  499.9 CA BUENA VISTA                                 
+USC00041180  39.4167 -121.1500  542.8 CA BULLARDS BAR PH                             
+USC00041192  34.1833 -118.3000  207.0 CA BURBANK FIRE DEP FC226                      
+USC00041194  34.1867 -118.3481  199.6 CA BURBANK VALLEY PUMP PLT                     
+USC00041206  37.5833 -122.3500    3.0 CA BURLINGAME                                  
+USC00041214  40.8803 -121.6547  974.8 CA BURNEY                                      
+USC00041215  40.8000 -123.4667  655.3 CA BURNT RCH 1 S                               
+USC00041216  37.8667 -122.0833  161.8 CA BURTON RCH                                  
+USC00041233  40.7667 -123.9000  128.0 CA BUTLER VALLEY RCH                           
+USC00041244  35.4028 -119.4700   68.6 CA BUTTONWILLOW                                
+USC00041250  33.9167 -116.7833  548.9 CA CABAZON                                     
+USC00041252  32.6667 -117.2333  125.0 CA CABRILLO NM                                 
+USC00041253  34.5822 -119.9817  240.5 CA CACHUMA LAKE                                
+USC00041268  34.3167 -117.4833  885.1 CA CAJON RS                                    
+USC00041272  34.3900 -117.5925 1456.9 CA CAJON WEST SUMMIT                           
+USC00041277  38.2769 -120.3114 1431.0 CA CALAVERAS BIG TREES                         
+USC00041280  38.2000 -120.3667 1024.1 CA CALAVERAS RS                                
+USC00041281  37.4833 -121.8167  246.9 CA CALAVERAS RSVR                              
+USC00041288  32.6881 -115.4644    3.7 CA CALEXICO 2 NE                               
+USC00041300  35.8833 -118.6833  900.1 CA CALIF HOT SPRINGS RS                        
+USC00041312  38.5769 -122.5781  106.7 CA CALISTOGA                                   
+USC00041316  41.3378 -122.8247  940.3 CA CALLAHAN                                    
+USC00041369  34.1492 -116.9803 1758.7 CA CAMP ANGELUS                                
+USC00041373  34.2333 -117.6667 1311.9 CA CAMP BALDY FC 85 F                          
+USC00041404  34.2500 -118.1000 1296.0 CA CAMP HILL OPIDS 57B                         
+USC00041420  40.1000 -121.5333 1311.9 CA CAMP LASSEN                                 
+USC00041424  32.6264 -116.4700  801.6 CA CAMPO                                       
+USC00041428  38.2486 -120.8433  200.6 CA CAMP PARDEE                                 
+USC00041444  35.3333 -120.6833  189.0 CA CAMP SAN LUIS OBISPO                        
+USC00041462  39.4500 -121.0500  839.7 CA CAMPTONVILLE RS                             
+USC00041470  36.1833 -118.6667 1158.8 CA CAMP WISHON                                 
+USC00041475  41.3667 -121.0500 1373.1 CA CANBY 11SW                                  
+USC00041476  41.4219 -120.9017 1313.7 CA CANBY 3 SW                                  
+USC00041488  35.3000 -117.9667  613.0 CA CANTIL                                      
+USC00041497  40.1706 -121.0886 1389.9 CA CANYON DAM                                  
+USC00041518  33.9231 -117.7778  492.6 CA CARBON CANYON GILMAN                        
+USC00041520  33.9581 -117.7792  359.7 CA CARBON CANYON WORKMAN                       
+USC00041522  40.0833 -121.1500  912.0 CA CARIBOU PH                                  
+USC00041534  36.4806 -121.7244  146.3 CA CARMEL VALLEY                               
+USC00041582  37.6333 -121.4833  189.0 CA CASTLE ROCK                                 
+USC00041583  37.6333 -121.5000  171.0 CA CASTLE ROCK RAD LAB                         
+USC00041588  37.4000 -120.0500  435.9 CA CATHEYS VLY BULL R RCH                      
+USC00041590  37.4000 -120.1167  305.1 CA CATHEYS VLY WYRE RCH                        
+USC00041602  38.5333 -123.1333  323.1 CA CAZADERO                                    
+USC00041603  38.5642 -123.1617  432.8 CA CAZADERO 5NW                                
+USC00041606  41.1417 -123.1392  704.1 CA CECILVILLE                                  
+USC00041607  41.0833 -123.0500  915.0 CA CECILVILLE 5 SE                             
+USC00041609  36.7833 -118.6667 1417.9 CA CEDAR GROVE                                 
+USC00041611  37.4667 -119.7333  985.1 CA CEDAR POINT RCH                             
+USC00041614  41.5300 -120.1792 1428.9 CA CEDARVILLE                         HCN      
+USC00041624  39.7833 -121.6667  159.1 CA CENTERVILLE PH                              
+USC00041630  37.3500 -119.4833 1634.9 CA CENTRAL CAMP                                
+USC00041653  39.4833 -121.2167  783.3 CA CHALLENGE RS                                
+USC00041679  34.2667 -118.6000  305.1 CA CHATSWORTH HEYNEMANN R                      
+USC00041680  34.2500 -118.6000  289.6 CA CHATSWORTH FC 24 F                          
+USC00041682  34.2261 -118.6167  277.4 CA CHATSWORTH RSVR                             
+USC00041697  37.9747 -119.9161 1452.4 CA CHERRY VALLEY DAM                           
+USC00041700  40.3033 -121.2422 1380.7 CA CHESTER                                     
+USC00041715  39.6911 -121.8211   56.4 CA CHICO UNIV FARM                    HCN      
+USC00041731  40.8667 -123.5833  182.9 CA CHINA FLAT                                  
+USC00041738  33.6617 -115.7206  520.0 CA CHIRIACO SUMMIT                             
+USC00041739  36.9003 -121.5967   25.0 CA CHITTENDEN PASS                             
+USC00041743  35.7167 -120.2500  534.0 CA CHOLAME ALLEY RCH                           
+USC00041754  34.8078 -119.0114 1603.2 CA CHUCHUPATE RS                               
+USC00041758  32.6400 -117.0858   17.1 CA CHULA VISTA                        HCN      
+USC00041768  39.3000 -120.5167 1751.1 CA CISCO RS                                    
+USC00041773  38.7000 -121.3000   43.0 CA CITRUS HEIGHTS                              
+USC00041777  34.1167 -117.7333  381.0 CA CLAREMONT FC 230 D                          
+USC00041779  34.1000 -117.7167  366.1 CA CLAREMONT POMONA CLG                        
+USC00041784  38.4167 -121.5333    3.0 CA CLARKSBURG                                  
+USC00041785  39.5500 -122.4000  125.0 CA CLARKS VALLEY MUDD RCH                      
+USC00041799  41.7167 -123.4500  299.0 CA CLEAR CREEK                                 
+USC00041805  41.9333 -121.0667 1393.9 CA CLEAR LAKE DAM                              
+USC00041806  38.9239 -122.5672  411.2 CA CLEARLAKE 4 SE                              
+USC00041807  38.9833 -122.7167  406.0 CA CLEARLAKE PARK                              
+USC00041837  38.8167 -123.0167  103.9 CA CLOVERDALE                                  
+USC00041838  38.7931 -123.0264  121.9 CA CLOVERDALE                                  
+USC00041840  38.7667 -123.2167  555.0 CA CLOVERDALE 11 W                             
+USC00041864  36.1356 -120.3606  204.2 CA COALINGA                                    
+USC00041867  36.1333 -120.3500  200.9 CA COALINGA 1 SE                               
+USC00041869  36.2333 -120.5667  499.9 CA COALINGA 14 WNW                             
+USC00041878  37.2503 -119.7053  679.7 CA COARSEGOLD 1 SW                             
+USC00041879  37.2119 -119.6900  676.0 CA COARSEGOLD 4SE                              
+USC00041882  38.8333 -122.7500  732.1 CA COBB 2 NW                                   
+USC00041886  41.0894 -122.7086  762.9 CA COFFEE CREEK RS                             
+USC00041890  39.9167 -121.7333  769.0 CA COHASSET                                    
+USC00041891  39.9333 -121.7167  972.9 CA COHASSET 1 NNE                              
+USC00041896  34.3000 -118.1167 1122.0 CA COLBYS FC 53D                               
+USC00041906  38.1667 -120.0500 1751.1 CA COLD SPRINGS CHALET                         
+USC00041907  40.4000 -122.1433  128.0 CA COLEMAN FISHERIES STN                       
+USC00041909  38.5667 -119.5000 1556.0 CA COLEVILLE                                   
+USC00041911  38.5167 -119.4667 1617.0 CA COLEVILLE 4 SE                              
+USC00041912  39.0900 -120.9469  723.3 CA COLFAX                             HCN      
+USC00041916  39.3308 -121.1922  181.4 CA COLGATE POWERHOUSE                          
+USC00041945  39.2167 -122.0000   18.0 CA COLUSA BRG                                  
+USC00041948  39.1875 -122.0269   15.2 CA COLUSA 2 SSW                                
+USC00041953  40.0500 -122.6833 1007.1 CA COLYEAR SPRINGS                             
+USC00041960  37.9833 -122.0167    6.1 CA CONCORD AP                                  
+USC00041961  37.9500 -122.0000   78.9 CA CONCORD 2 SE                                
+USC00041962  37.9667 -121.9833   59.4 CA CONCORD 3 E                                 
+USC00041967  37.9833 -122.0692   12.2 CA CONCORD WWTP                                
+USC00041985  38.8833 -121.0167  467.0 CA COOL                                        
+USC00041990  41.9797 -122.3381  812.3 CA COPCO #1 DAM                                
+USC00042009  36.1000 -119.5500   61.0 CA CORCORAN                                    
+USC00042012  36.0975 -119.5817   61.0 CA CORCORAN IRRIG DIST                         
+USC00042015  38.8500 -122.7833  796.1 CA CORDES                                      
+USC00042027  39.9000 -122.3500  148.4 CA CORNING HOUGHTON RCH                        
+USC00042031  33.8833 -117.5500  185.9 CA CORONA                                      
+USC00042051  37.0000 -121.8167  223.1 CA CORRALITOS ENOS RCH                         
+USC00042081  39.8158 -123.2444  430.7 CA COVELO                                      
+USC00042084  39.8261 -123.0850  462.4 CA COVELO EEL RVR RS                           
+USC00042088  34.0667 -117.8667  182.9 CA COVINA                                      
+USC00042090  34.0917 -117.8800  185.0 CA COVINA CITY YARD FC387B                     
+USC00042092  36.5333 -116.8833  -46.0 CA COW CREEK                                   
+USC00042103  33.4333 -116.5000  694.9 CA COYOTE CANYON                               
+USC00042111  32.7333 -115.9667   75.9 CA COYOTE WELLS                                
+USC00042139  32.8833 -116.2833  458.1 CA CRAWFORD RCH                                
+USC00042147  41.7958 -124.2147   13.1 CA CRESCENT CITY 3 NNW                         
+USC00042148  41.7942 -124.0850   36.6 CA CRESCENT CITY 7 ENE                         
+USC00042150  41.7667 -124.2000   14.9 CA CRESCENT CITY MNTC STN                      
+USC00042162  34.2500 -117.3000 1485.0 CA CRESTLINE                                   
+USC00042173  37.8000 -119.9000 1434.1 CA CROCKER STN                                 
+USC00042177  38.0333 -122.2167    3.0 CA CROCKETT                                    
+USC00042198  34.3175 -117.8419 1629.2 CA CRYSTAL LAKE FC238C                         
+USC00042199  34.3333 -117.8333 1759.9 CA CRYSTAL LK EAST PINE F                      
+USC00042214  34.0050 -118.4139   28.0 CA CULVER CITY                                 
+USC00042218  39.8333 -123.6333  392.9 CA CUMMINGS                                    
+USC00042224  38.9500 -122.8667  433.1 CA CUNNINGHAM                                  
+USC00042236  34.9333 -119.6167  688.8 CA CUYAMA                                      
+USC00042239  32.9897 -116.5872 1414.3 CA CUYAMACA                           HCN      
+USC00042248  34.9833 -119.6667  662.0 CA CUYAMA RCH                                  
+USC00042249  34.8500 -119.4833  839.1 CA CUYAMA RS                                   
+USC00042269  41.1000 -121.5167 1012.9 CA DANA 2 SE                                   
+USC00042290  37.0167 -122.2000   85.0 CA DAVENPORT                                   
+USC00042294  38.5350 -121.7761   18.3 CA DAVIS 2 WSW EXP FARM               HCN      
+USC00042296  41.7333 -120.3667 1449.0 CA DAVIS CREEK                                 
+USC00042306  41.2122 -121.3742 1112.5 CA DAY                                         
+USC00042319  36.4625 -116.8672  -59.1 CA DEATH VALLEY NP                    HCN      
+USC00042327  33.6514 -116.3764  365.8 CA DEEP CANYON LAB                             
+USC00042330  37.4333 -118.1667 3203.1 CA DEEP SPRINGS 11 NW                          
+USC00042331  37.3739 -117.9803 1592.6 CA DEEP SPRINGS COLLEGE                        
+USC00042334  39.3000 -120.8500 1129.0 CA DEER CREEK PH                               
+USC00042338  39.3000 -120.8333 1357.9 CA DEER CREEK FOREBAY                          
+USC00042346  35.7683 -119.2600   92.0 CA DELANO                                      
+USC00042350  32.9719 -117.2619    3.7 CA DEL MAR FIRE DEPT                           
+USC00042362  36.6000 -121.8667   13.7 CA DEL MONTE                                   
+USC00042369  37.4167 -121.3833  366.1 CA DEL PUERTO ROAD CAMP                        
+USC00042379  40.9500 -122.4167  356.9 CA DELTA                                       
+USC00042380  40.9500 -122.4333  402.3 CA DELTA (1)                                   
+USC00042389  37.5667 -120.7833   43.0 CA DENAIR 3 NNE                                
+USC00042402  39.8717 -121.6108  826.0 CA DE SABLA                                    
+USC00042406  32.8500 -116.6167 1066.8 CA DESCANSO RS                                 
+USC00042410  33.7378 -115.3925  227.7 CA DESERT CTR 2 NNE                            
+USC00042432  34.0000 -117.8000  268.2 CA DIAMOND BAR                                 
+USC00042456  39.3575 -121.2011  499.9 CA DOBBINS 1 S                                 
+USC00042458  39.3333 -121.2000  473.0 CA DOBBINS COLGATE FOREBA                      
+USC00042465  38.3333 -119.9667 1476.1 CA DONNELLS DAM                                
+USC00042467  39.3239 -120.2331 1809.6 CA DONNER MEM SP                               
+USC00042490  39.7167 -123.3500  284.1 CA DOS RIOS                                    
+USC00042494  33.9297 -118.1456   33.5 CA DOWNEY FIRE DEPT. FC107C                    
+USC00042500  39.5633 -120.8239  888.5 CA DOWNIEVILLE                                 
+USC00042504  40.0267 -120.1056 1308.5 CA DOYLE                                       
+USC00042506  39.9717 -120.0828 1338.1 CA DOYLE 4 SSE                                 
+USC00042516  34.4833 -118.5333  443.5 CA DRY CANYON RSVR                             
+USC00042539  37.7500 -120.1000  915.0 CA DUDLEYS                                     
+USC00042559  36.7167 -119.1167  609.9 CA DUNLAP SHINGLE MILL                         
+USC00042568  38.8833 -121.9667   14.9 CA DUNNIGAN                                    
+USC00042570  35.0500 -116.4333  491.0 CA DUNN SIDING                                 
+USC00042572  41.2167 -122.2667  737.9 CA DUNSMUIR                                    
+USC00042574  41.1831 -122.2817  661.1 CA DUNSMUIR TRTMT PL                           
+USC00042580  38.2000 -122.3000    6.1 CA DUTTONS LANDING                             
+USC00042595  40.5000 -120.6500 1565.1 CA EAGLE LAKE STONE RCH                        
+USC00042598  33.8081 -115.4514  296.6 CA EAGLE MTN                                   
+USC00042640  39.3592 -122.5178  367.3 CA EAST PARK RSVR                              
+USC00042643  34.3333 -117.8333 1751.1 CA EAST PINE FLAT                              
+USC00042655  33.9667 -118.0333   67.1 CA EAST WHITTIER                               
+USC00042671  38.7833 -120.0333 2240.3 CA ECHO SUMT SIERRA AT TA                      
+USC00042705  32.7833 -116.9167  161.8 CA EL CAJON 2 E                                
+USC00042706  32.8006 -116.9281  150.9 CA EL CAJON                                    
+USC00042709  32.8856 -116.8150  182.9 CA EL CAPITAN DAM                              
+USC00042713  32.7669 -115.5617   -9.1 CA EL CENTRO 2 SSW                             
+USC00042728  38.3306 -120.6706  217.9 CA ELECTRA P H                        HCN      
+USC00042734  34.6667 -118.4333 1000.0 CA ELIZABETH LAKE                              
+USC00042735  34.6000 -118.5667  634.0 CA ELIZABETH LAKE CN FC12                      
+USC00042749  41.9881 -123.7183  520.6 CA ELK VALLEY                                  
+USC00042756  37.9356 -119.2306 2939.8 CA ELLERY LAKE                                 
+USC00042760  38.2333 -121.2000   28.0 CA ELLIOTT                                     
+USC00042771  34.5892 -117.6303  899.2 CA EL MIRAGE                                   
+USC00042775  33.8000 -117.7833  139.9 CA EL MODENA                                   
+USC00042805  33.6861 -117.3458  386.5 CA ELSINORE                                    
+USC00042811  33.6333 -117.2667  442.0 CA ELSINORE 4 SE                               
+USC00042831  39.3033 -120.6508 1600.2 CA EMIGRANT GAP                                
+USC00042862  33.1167 -117.0833  200.9 CA ESCONDIDO                                   
+USC00042863  33.1211 -117.0900  182.9 CA ESCONDIDO #2                                
+USC00042871  33.1000 -117.0833  220.1 CA ESCONDIDO CHURCH RCH                        
+USC00042895  34.1317 -117.5239  423.7 CA ETIWANDA                                    
+USC00042899  41.4572 -122.8992  899.2 CA ETNA                                        
+USC00042920  37.5850 -120.2672  134.7 CA EXCHEQUER DAM                               
+USC00042921  36.3167 -119.1500 -999.9 CA EXETER                                      
+USC00042922  36.3500 -119.0667  133.8 CA EXETER FAUVER RCH                           
+USC00042933  38.2500 -122.0500    6.1 CA FAIRFIELD                                   
+USC00042934  38.2736 -122.0678   12.2 CA FAIRFIELD                                   
+USC00042941  34.7050 -118.4297  932.7 CA FAIRMONT                           HCN      
+USC00042958  33.3500 -117.2500  201.2 CA FALLBROOK                                   
+USC00042964  41.0081 -121.4350 1005.8 CA FALL RVR MILLS                              
+USC00042994  39.6000 -121.2667  905.9 CA FEATHER FALLS                               
+USC00043004  37.0506 -122.0750  121.9 CA FELTON                                      
+USC00043020  40.3500 -122.4500  244.1 CA FERGUSON RCH                                
+USC00043025  40.5000 -124.3333  442.0 CA FERNDALE 8 SSW                              
+USC00043030  40.6000 -124.2833    3.0 CA FERNDALE 2 NW                               
+USC00043038  38.5250 -120.6981  661.4 CA FIDDLETOWN DEXTER RCH                       
+USC00043048  34.7344 -120.0069  960.7 CA FIGUEROA MTN                                
+USC00043050  34.4000 -118.9333  134.1 CA FILLMORE 1 WNW                              
+USC00043055  39.0167 -122.8667  409.0 CA FINLEY 1 NNE                                
+USC00043056  38.9667 -122.8667  419.7 CA FINLEY 1 SSE                                
+USC00043057  38.9667 -122.9500  534.0 CA FINLEY 5 SW                                 
+USC00043069  37.4833 -119.6333 1562.1 CA FISH CAMP                                   
+USC00043083  36.3642 -120.1561   86.9 CA FIVE POINTS 5 SSW                           
+USC00043087  40.3667 -120.3167 1220.1 CA FLEMING FISH & GAME                         
+USC00043093  37.2739 -118.9733 2232.7 CA FLORENCE LAKE                               
+USC00043111  38.6833 -121.1833   75.9 CA FOLSOM                                      
+USC00043113  38.7000 -121.1667  106.7 CA FOLSOM DAM                                  
+USC00043118  34.1833 -117.4500  601.1 CA FONTANA 5 N                                 
+USC00043120  34.0833 -117.5167  335.9 CA FONTANA KAISER                              
+USC00043130  40.3833 -123.3333  712.9 CA FOREST GLEN                                 
+USC00043134  39.0100 -120.8456  919.0 CA FORESTHILL RS                               
+USC00043151  41.2667 -123.3167  378.0 CA FORKS OF SALMON                             
+USC00043157  41.8714 -120.1575 1444.4 CA FT BIDWELL                                  
+USC00043161  39.5100 -123.7564   37.5 CA FT BRAGG 5 N                       HCN      
+USC00043164  39.4000 -123.8167   20.1 CA FT BRAGG AVN                                
+USC00043173  41.8667 -124.1500   14.0 CA FT DICK                                     
+USC00043176  41.5833 -122.7167 1012.9 CA FT JONES 6 ESE                              
+USC00043182  41.6011 -122.8478  831.8 CA FT JONES RS                                 
+USC00043191  38.5150 -123.2447   34.1 CA FT ROSS                                     
+USC00043194  40.2183 -123.6322   67.1 CA FT SEWARD                                   
+USC00043204  40.4333 -121.7333 1007.1 CA FORWARD MILL                                
+USC00043215  34.8272 -118.9653 1515.5 CA FRAZIER PARK                                
+USC00043242  40.7000 -122.6333  335.9 CA FRENCH GULCH                                
+USC00043244  37.5422 -122.0158   11.6 CA FREMONT                                     
+USC00043251  36.9089 -119.8006  115.8 CA FRESNO 3NW                                  
+USC00043256  36.7672 -119.7092  103.0 CA FRESNO 5 NE                                 
+USC00043260  37.0167 -119.6833   95.1 CA FRIANT                                      
+USC00043261  36.9969 -119.7072  125.0 CA FRIANT GOVERNMENT CAMP                      
+USC00043270  39.5833 -122.4500  190.2 CA FRUTO                                       
+USC00043279  33.9000 -117.9167   98.1 CA FULLERTON ARROUES RCH                       
+USC00043282  33.9167 -117.8667  121.9 CA FULLERTON CREEK 5                           
+USC00043285  33.8964 -117.8881  103.6 CA FULLERTON DAM                               
+USC00043288  33.8833 -117.9167  100.9 CA FULLERTON HILLCREST RE                      
+USC00043320  40.1000 -123.8000  103.6 CA GARBERVILLE                                 
+USC00043338  38.8333 -120.8500  591.9 CA GARDEN VALLEY 2 S                           
+USC00043357  41.8458 -123.9669  118.0 CA GASQUET RS                                  
+USC00043369  37.7519 -119.1403 2734.1 CA GEM LAKE                                    
+USC00043381  38.9167 -120.8333  830.0 CA GEORGETOWN                                  
+USC00043383  38.9167 -120.6833 1232.0 CA GEORGETOWN 9 E                              
+USC00043384  38.9331 -120.8008  914.7 CA GEORGETOWN RS                               
+USC00043387  37.3667 -121.4833  652.9 CA GERBER RCH                                  
+USC00043392  34.0869 -118.4794  340.5 CA GETTY CTR                                   
+USC00043397  36.5667 -118.7667 1955.0 CA GIANT FOREST                                
+USC00043401  34.5167 -119.7000  381.0 CA GIBRALTAR DAM                               
+USC00043402  34.5225 -119.6822  474.9 CA GIBRALTAR DAM #2                            
+USC00043405  41.0167 -122.4000  502.9 CA GIBSON HWY MNT STN                          
+USC00043410  32.8167 -116.9667  132.9 CA GILLESPIE FLD                               
+USC00043417  37.0031 -121.5608   59.1 CA GILROY                                      
+USC00043419  37.0328 -121.4317  320.0 CA GILROY 8 NE                                 
+USC00043421  37.1167 -121.3667  580.0 CA GILROY 14 NE                                
+USC00043422  37.1000 -121.3333  412.1 CA GILROY 14 ENE                               
+USC00043430  34.1667 -118.6000  267.9 CA GIRARD BRANT RCH                            
+USC00043434  33.0500 -114.9833  214.0 CA GLAMIS 6 ENE                                
+USC00043450  34.1500 -118.2667  161.8 CA GLENDALE STAPENHORST F                      
+USC00043451  34.1500 -117.8333  225.6 CA GLENDORA                                    
+USC00043452  34.1472 -117.8472  284.4 CA GLENDORA FC 287B                            
+USC00043463  35.7269 -118.7006  957.1 CA GLENNVILLE                                  
+USC00043465  35.7250 -118.6797 1066.8 CA GLENNVILLE FULTON RS                        
+USC00043468  35.7000 -118.7333  997.0 CA GLENNVILLE MORROW RCH                       
+USC00043489  32.8833 -114.8667  147.8 CA GOLD ROCK RCH                               
+USC00043491  39.1503 -120.9003  981.5 CA GOLD RUN 4 SW                               
+USC00043498  35.2814 -116.7844  899.2 CA GOLDSTONE ECHO #2                           
+USC00043502  36.5333 -121.2833  716.9 CA GONZALES 9 ENE                              
+USC00043510  41.8667 -120.5000 1491.1 CA GOOSE LAKE WEST                             
+USC00043551  36.7375 -118.9619 2005.6 CA GRANT GROVE                                 
+USC00043564  41.6333 -122.2000 1552.0 CA GRASS LAKE HWY MNTC ST                      
+USC00043571  39.2167 -121.0667  805.0 CA GRASS VALLEY                                
+USC00043572  39.2333 -121.0333  826.9 CA GRASS VALLEY 2 NNE                          
+USC00043573  39.2042 -121.0681  731.5 CA GRASS VALLEY #2                             
+USC00043578  38.4306 -122.8647   61.0 CA GRATON                                      
+USC00043599  35.7333 -118.5500 1859.6 CA GREENHORN MTN PARK                          
+USC00043603  36.4500 -116.8667  -51.2 CA GREENLAND RCH                               
+USC00043614  41.5519 -122.9236  859.5 CA GREENVIEW                                   
+USC00043621  40.1408 -120.9506 1094.2 CA GREENVILLE                                  
+USC00043639  39.3667 -121.7000   31.1 CA GRIDLEY                                     
+USC00043647  40.4864 -123.9089  125.9 CA GRIZZLY CREEK SP                            
+USC00043649  38.6333 -120.5167 1177.1 CA GRIZZLY FLATS                               
+USC00043650  38.1500 -121.9667 -999.9 CA GRIZZLY ISLAND REFUGE                       
+USC00043652  37.8667 -122.2167  534.0 CA GRIZZLY PEAK                                
+USC00043666  37.8333 -120.2167  854.0 CA GROVELAND                                   
+USC00043669  37.8444 -120.2258  853.4 CA GROVELAND 2                                 
+USC00043672  37.8231 -120.0983  958.6 CA GROVELAND RS                                
+USC00043683  38.5036 -122.9981   18.3 CA GUERNEVILLE                                 
+USC00043684  38.5039 -122.9969   19.8 CA GUERNEVILLE FIRE DEPT                       
+USC00043690  33.3500 -116.0167  -25.0 CA HABITAT                                     
+USC00043703  34.2667 -118.2667  747.1 CA HAINES CAN LWR FC 364                       
+USC00043704  34.2667 -118.2500 1049.1 CA HAINES CNYN UPR FC367                       
+USC00043710  36.1389 -117.9528 1165.9 CA HAIWEE                                      
+USC00043714  37.4725 -122.4433    8.2 CA HALF MOON BAY                               
+USC00043729  39.7333 -122.0167   46.0 CA HAMILTON CITY                               
+USC00043735  38.0500 -122.5000    3.0 CA HAMILTON AFB 1 E                            
+USC00043747  36.3158 -119.6369   72.2 CA HANFORD 1 S                        HCN      
+USC00043751  34.2608 -118.3864  331.3 CA HANSEN DAM                                  
+USC00043761  41.7961 -123.3747  348.1 CA HAPPY CAMP RS                      HCN      
+USC00043787  34.7667 -120.4167   98.1 CA HARRIS GAGING STN                           
+USC00043791  40.3636 -122.9650  838.2 CA HARRISON GULCH RS                           
+USC00043800  39.2372 -121.2667  243.8 CA HARRY L ENGLEBRIGHT DAM                     
+USC00043817  40.8500 -121.7667 1332.9 CA HATCHET MTN MNTNC STN                       
+USC00043821  40.8000 -121.5000 1022.0 CA HAT CREEK RS                                
+USC00043824  40.9317 -121.5433  919.0 CA HAT CREEK                                   
+USC00043855  33.7044 -115.6289  417.6 CA HAYFIELD PUMPING PLT                        
+USC00043859  40.5525 -123.2122  701.0 CA HAYFORK 2 W                                 
+USC00043862  37.6833 -122.0833   39.3 CA HAYWARD                                     
+USC00043863  37.6667 -122.0000  161.5 CA HAYWARD 4 ESE                               
+USC00043875  38.6294 -122.8664   53.9 CA HEALDSBURG                         HCN      
+USC00043878  38.6333 -122.8667   45.7 CA HEALDSBURG #2                               
+USC00043882  35.6842 -121.1683  465.1 CA HEARST CASTLE                               
+USC00043891  39.0583 -120.4150 1478.3 CA HELL HOLE                                   
+USC00043896  33.7381 -116.8939  552.0 CA HEMET                                       
+USC00043899  33.6667 -116.6667 1330.1 CA HEMET RSVR                                  
+USC00043914  33.2372 -116.7614  823.0 CA HENSHAW DAM                                 
+USC00043925  36.4167 -120.9167  659.0 CA HERNANDEZ 2 NW                              
+USC00043928  36.3053 -120.7047  842.8 CA HERNANDEZ 7 SE                              
+USC00043935  34.4167 -117.3000  976.0 CA HESPERIA                                    
+USC00043937  34.4206 -117.2661  931.2 CA HESPERIA 2E                                 
+USC00043939  37.9614 -119.7831 1179.6 CA HETCH HETCHY                                
+USC00043946  39.0333 -121.1000  451.1 CA HIDDEN VALLEY RCH                           
+USC00043953  37.0500 -121.8000  412.1 CA HIGHLAND                                    
+USC00043987  42.0000 -122.6333  885.1 CA HILTS SLASH DISPOSAL                        
+USC00044010  38.8500 -122.7167  903.1 CA HOBERGS                                     
+USC00044014  33.0500 -117.1333  118.9 CA HODGES DAM                                  
+USC00044017  34.2167 -118.0333  808.0 CA HOEGEES FC 60 A                             
+USC00044022  36.8333 -121.4167   85.0 CA HOLLISTER 1 SW                              
+USC00044025  36.8483 -121.4214   83.8 CA HOLLISTER 2                                 
+USC00044056  37.1667 -122.0333  670.6 CA HOLY CITY 3 WNW                             
+USC00044074  40.2375 -124.1322  113.7 CA HONEYDEW 1 SW                               
+USC00044082  41.0500 -123.6667  110.0 CA HOOPA                                       
+USC00044084  41.0333 -123.6500   98.1 CA HOOPA 2 SE                                  
+USC00044089  41.0483 -123.6756  102.4 CA HOOPA                                       
+USC00044097  39.0167 -123.0000  766.0 CA HOPLAND 8 NE                                
+USC00044100  39.0167 -123.1167  167.9 CA HOPLAND LARGO STN                           
+USC00044113  34.6167 -119.8500  473.0 CA HORSE CANYON                                
+USC00044144  35.0833 -120.3833  222.5 CA HUASNA                                      
+USC00044156  39.4167 -122.9500  588.9 CA HULLVILLE                                   
+USC00044158  39.3500 -122.8667  685.8 CA HULLVILLE 7 SE                              
+USC00044166  40.1833 -122.5500  235.0 CA HUNTER DISTR GRAVES RC                      
+USC00044170  38.2000 -120.3667  982.1 CA HUNTERS DAM                                 
+USC00044176  37.2275 -119.2206 2139.7 CA HUNTINGTON LAKE                             
+USC00044187  36.2000 -120.1000  116.1 CA HURON                                       
+USC00044191  40.6161 -123.4567  389.5 CA HYAMPOM                                     
+USC00044202  41.9000 -123.7667  381.0 CA IDLEWILD HWY MNTNC STN                      
+USC00044204  36.4167 -120.6667  808.0 CA IDRIA                                       
+USC00044208  33.7500 -116.7000 1644.1 CA IDYLLWILD                                   
+USC00044211  33.7572 -116.7067 1639.8 CA IDYLLWILD FIRE DEPT                         
+USC00044223  32.8489 -115.5667  -19.5 CA IMPERIAL                                    
+USC00044227  32.9667 -115.1833   64.0 CA IMPERIAL SAND DUNES                         
+USC00044232  36.7981 -118.2036 1204.0 CA INDEPENDENCE                       HCN      
+USC00044235  36.7667 -118.3333 2799.9 CA INDEPENDENCE ONION VAL                      
+USC00044249  39.0833 -122.5667  412.1 CA INDIAN VALLEY                               
+USC00044255  41.7167 -121.5000 1455.1 CA INDIAN WELL HQS                             
+USC00044259  33.7086 -116.2153   -6.4 CA INDIO FIRE STN                     HCN      
+USC00044274  40.0000 -121.5333 1470.1 CA INSKIP INN                                  
+USC00044278  35.6514 -117.8214  740.7 CA INYOKERN                                    
+USC00044283  38.3500 -120.9333   85.0 CA IONE                                        
+USC00044288  39.1181 -120.8406  944.9 CA IOWA HILL                                   
+USC00044297  34.1472 -115.1219  281.0 CA IRON MTN                                    
+USC00044303  33.7200 -117.7231  164.6 CA IRVINE RCH                                  
+USC00044374  41.2706 -120.2983 1621.2 CA JESS VALLEY                                 
+USC00044389  35.9667 -118.5333 1427.1 CA JOHNSONDALE                                 
+USC00044392  38.1833 -122.0500    3.0 CA JOICE ISLAND                                
+USC00044394  34.3592 -116.5378  965.3 CA JOHNSON VALLEY                              
+USC00044405  34.1472 -116.2747  781.2 CA JOSHUA TREE                                 
+USC00044407  34.1000 -116.3167 1064.1 CA JOSHUA TREE 3 S                             
+USC00044412  33.0764 -116.5925 1284.7 CA JULIAN CDF                                  
+USC00044415  33.0667 -116.6333 1286.9 CA JULIAN MANZANITA RCH                        
+USC00044418  33.1000 -116.6500 1112.5 CA JULIAN WYNOLA                               
+USC00044422  34.4908 -119.5069  688.8 CA JUNCAL DAM                                  
+USC00044467  34.1667 -116.5333 1321.0 CA KEE RCH                                     
+USC00044480  38.6667 -122.6667  548.9 CA KELLOGG                                     
+USC00044484  38.8089 -120.8208  609.6 CA KELSEY 1 N                                  
+USC00044488  38.9833 -122.8333  424.0 CA KELSEYVILLE                                 
+USC00044500  37.9567 -122.5447   44.2 CA KENTFIELD                                   
+USC00044508  37.6833 -121.4333   53.9 CA KERLINGER                                   
+USC00044518  35.9500 -118.4833 1113.1 CA KERN RIVER INTAKE 3                         
+USC00044520  35.4667 -118.7833  295.7 CA KERN RIVER PH 1                             
+USC00044523  35.7831 -118.4389  823.9 CA KERN RIVER PH 3                             
+USC00044527  35.7333 -118.4333  808.0 CA WOFFORD HTS KERNVILLE                       
+USC00044534  36.0067 -119.9600   73.2 CA KETTLEMAN CITY                              
+USC00044536  36.0725 -120.0878  154.8 CA KETTLEMAN STN                               
+USC00044544  40.6833 -121.8667  808.0 CA KILARC PH                                   
+USC00044555  36.2069 -121.1378   97.5 CA KING CITY                                   
+USC00044558  36.2333 -121.1167  110.0 CA KING CITY AP                                
+USC00044577  41.5786 -124.0747    8.5 CA KLAMATH                                     
+USC00044586  40.6667 -123.9167  811.1 CA KNEELAND 2                                  
+USC00044590  37.8000 -120.6500  103.9 CA KNIGHTS FERRY 2 SE                          
+USC00044591  38.8000 -121.7167    9.1 CA KNIGHTS LANDING                             
+USC00044592  38.8000 -121.7167   10.7 CA KNIGHTS LANDING S PACI                      
+USC00044593  38.6167 -122.6667  146.0 CA KNIGHTS VALLEY                              
+USC00044602  40.8667 -123.9500   46.0 CA KORBEL                                      
+USC00044613  38.7833 -120.3000 1281.1 CA KYBURZ                                      
+USC00044616  38.8000 -120.1500 1738.9 CA KYBURZ STRAWBERRY                           
+USC00044620  33.9500 -117.8333  214.0 CA LA BREA CANYON HUNT                         
+USC00044628  34.2222 -118.2378  470.9 CA LA CRESCENTA FC251 C                        
+USC00044633  37.9167 -122.1000  164.9 CA LA FAYETTE 2 NNE                            
+USC00044647  33.5453 -117.7814   13.4 CA LAGUNA BEACH                                
+USC00044650  33.5567 -117.8006   64.0 CA LAGUNA BEACH #2                             
+USC00044660  37.3167 -122.2667  228.9 CA LA HONDA                                    
+USC00044671  34.2467 -117.1883 1586.5 CA LAKE ARROWHEAD                              
+USC00044673  38.5794 -122.2500  138.7 CA LAKE BERRYESSA                              
+USC00044675  41.6333 -120.2167 1406.0 CA LAKE CITY                                   
+USC00044679  37.9667 -119.8833 1421.0 CA LAKE ELEANOR                                
+USC00044683  40.8989 -122.3914  426.1 CA LAKEHEAD                                    
+USC00044690  40.0167 -123.4000  964.1 CA LAKE MTN                                    
+USC00044697  39.4167 -122.9667  580.0 CA LAKE PILLSBURY                              
+USC00044698  39.4167 -122.9833  534.0 CA LAKE PILLSBURY 2                            
+USC00044701  39.0333 -122.9167  400.8 CA LAKEPORT                                    
+USC00044705  37.2131 -118.6136 2763.0 CA LAKE SABRINA                                
+USC00044709  40.8667 -122.3833  328.9 CA LAKESHORE 2                                 
+USC00044710  32.8536 -116.8947  210.3 CA LAKESIDE 2 E                                
+USC00044711  32.8667 -116.8833  136.9 CA LAKESIDE 2 E                                
+USC00044712  38.4919 -122.0039   57.0 CA LAKE SOLANO                                 
+USC00044713  39.3183 -120.6392 1571.5 CA LAKE SPAULDING                     HCN      
+USC00044714  39.3333 -120.6333 1562.1 CA LAKE SPAULDING DAM                          
+USC00044722  39.6000 -121.5333   61.0 CA LAKE WILENOR                                
+USC00044726  33.1667 -117.0000  457.2 CA LAKE WOHLFORD                               
+USC00044735  32.7675 -117.0233  161.5 CA LA MESA                                     
+USC00044736  32.7833 -117.0000  200.9 CA LA MESA 1 NE                                
+USC00044747  34.6833 -118.1167  732.1 CA LANCASTER                                   
+USC00044767  35.3833 -120.1667  473.0 CA LA PANZA RCH                                
+USC00044773  39.6833 -120.9833 1519.1 CA LA PORTE                                    
+USC00044812  39.6833 -121.4833  156.1 CA LAS PLUMAS                                  
+USC00044823  37.7833 -121.3000    8.2 CA LATHROP SAN JOAQUIN BD                      
+USC00044838  41.7117 -121.5067 1455.4 CA LAVA BEDS NAT MON                           
+USC00044840  34.1167 -117.7500  368.8 CA LA VERNE HTS FC 560 B                       
+USC00044851  39.7000 -123.4833  502.9 CA LAYTONVILLE                                 
+USC00044852  39.7000 -123.4667  506.0 CA LAYTONVILLE #2                              
+USC00044863  34.8333 -118.8650 1089.7 CA LEBEC                                       
+USC00044867  34.0764 -118.8803  487.7 CA LECHUZA PTRL ST FC352B                      
+USC00044880  39.1500 -122.4333  406.0 CA LEESVILLE KEEGAN RCH                        
+USC00044881  37.9567 -119.1194 2071.7 CA LEE VINING                                  
+USC00044883  39.8744 -123.7206  214.3 CA LEGGETT                                     
+USC00044884  37.2333 -120.2500   78.9 CA LE GRAND                                    
+USC00044886  38.6000 -121.0167  182.9 CA LEHMAN RCH                                  
+USC00044890  36.3817 -119.0264  156.4 CA LEMON COVE                         HCN      
+USC00044957  36.2033 -119.0545  132.6 CA LINDSAY                                     
+USC00044979  36.7833 -120.8000  207.0 CA LITTLE PANOCHE DET DAM                      
+USC00044986  34.3167 -118.3000  839.1 CA LITTLE TUJUNGA GLD CR                       
+USC00044988  40.8833 -121.1833 1271.9 CA LITTLE VALLEY                               
+USC00044993  34.1167 -117.7333  382.5 CA LIVE OAK CANYON FC 230                      
+USC00044997  37.6819 -121.7514  161.2 CA LIVERMORE                          HCN      
+USC00045000  37.8667 -122.0167  136.9 CA LIVORNA HEIGHTS                             
+USC00045001  34.5000 -117.8167 1036.9 CA LLANO                                       
+USC00045002  34.4667 -117.7500 1164.9 CA LLANO SHAWNEE HILLS RC                      
+USC00045017  35.9667 -121.0833  323.1 CA LOCKWOOD 1 N                                
+USC00045023  32.9833 -117.2500   64.0 CA LOCKWOOD MESA                               
+USC00045026  36.6044 -118.7325 2052.8 CA LODGEPOLE                                   
+USC00045028  36.6000 -118.7333 2044.0 CA LODGEPOLE RS                                
+USC00045032  38.1061 -121.2878   12.2 CA LODI                               HCN      
+USC00045064  34.6539 -120.4514   22.9 CA LOMPOC                                      
+USC00045067  36.4431 -118.0433 1155.2 CA LONE PINE COTTONWD PH                       
+USC00045074  37.6333 -121.4000  100.9 CA LONE TREE CANYON                            
+USC00045078  38.1833 -120.0167 1585.9 CA LONG BARN EXP STN                           
+USC00045080  33.7611 -118.1969    6.1 CA LONG BEACH AQUARIUM                         
+USC00045082  33.7667 -118.2000    9.1 CA LONG BEACH PUB SVC                          
+USC00045088  39.6833 -120.0167 1542.9 CA LONG VLY INSPECTION ST                      
+USC00045091  33.8131 -116.6419 2554.2 CA LONG VALLEY 2                               
+USC00045093  41.2000 -121.2000 1275.0 CA LOOKOUT 3 WSW                               
+USC00045098  35.3000 -118.4333  829.1 CA LORAINE                                     
+USC00045100  35.3836 -118.4122 1290.8 CA LORAINE 5 NNE                               
+USC00045107  34.7456 -120.2800  172.2 CA LOS ALAMOS                                  
+USC00045111  34.0500 -118.2500  125.0 CA LOS ANGELES 6TH MAIN                        
+USC00045112  34.0667 -118.2333   85.0 CA LOS ANGELES TERMINAL A                      
+USC00045118  37.0564 -120.8667   36.6 CA LOS BANOS                                   
+USC00045119  36.8750 -120.9386  256.9 CA LOS BANOS ARBURUA RCH                       
+USC00045120  36.9897 -120.9297  124.1 CA LOS BANOS DET RESV                          
+USC00045123  37.2319 -121.9592  111.3 CA LOS GATOS                                   
+USC00045125  37.1833 -122.0333  736.1 CA LOS GATOS 4 SW                              
+USC00045126  37.1667 -122.0333  702.0 CA LOS GATOS 5 SW                              
+USC00045131  40.0167 -122.1000   67.1 CA LOS MOLINOS                                 
+USC00045147  34.5444 -119.7914  312.1 CA LOS PRIETOS RS                              
+USC00045151  35.6181 -119.6892   87.8 CA LOST HILLS                                  
+USC00045162  32.6167 -116.9333  164.6 CA LOWER OTAY RSVR                             
+USC00045171  39.6833 -120.2500 1506.9 CA LOYALTON                                    
+USC00045182  34.4500 -116.9500  903.1 CA LUCERNE VALLEY                              
+USC00045184  35.8781 -121.4497  108.2 CA LUCIA WILLOW SPRINGS                        
+USC00045212  34.0950 -117.3347  353.6 CA LYTLE CK FTHILL BLVD                        
+USC00045215  34.2000 -117.4500  686.1 CA LYTLE CREEK PH                              
+USC00045218  34.2383 -117.4708  832.1 CA LYTLE CREEK RS                              
+USC00045231  41.0167 -120.5000 1623.1 CA MADELINE                                    
+USC00045233  36.9539 -120.0378   82.3 CA MADERA                                      
+USC00045242  40.3186 -123.3739  842.2 CA MAD RVR 12 SE                               
+USC00045244  40.4500 -123.5333  815.3 CA MAD RIVER RS                                
+USC00045256  34.4000 -118.2833 1357.0 CA MAGIC MTN                                   
+USC00045280  37.6478 -118.9617 2378.7 CA MAMMOTH LAKES RS                            
+USC00045296  38.0333 -121.5667    3.0 CA MANDEVILLE ISLAND                           
+USC00045303  37.8000 -121.2000   11.9 CA MANTECA                                     
+USC00045311  40.5411 -121.5767 1752.6 CA MANZANITA LAKE                              
+USC00045314  34.9000 -120.0833  954.9 CA MANZANITA MTN                               
+USC00045326  33.8667 -117.2500  454.2 CA MARCH FLD                                   
+USC00045333  38.1000 -122.2667   14.9 CA MARE ISLAND                                 
+USC00045338  35.0833 -119.3833  205.7 CA MARICOPA                                    
+USC00045346  37.4833 -119.9667  613.0 CA MARIPOSA                                    
+USC00045352  37.4950 -119.9858  640.1 CA MARIPOSA RS                                 
+USC00045356  38.6919 -119.7803 1685.5 CA MARKLEEVILLE                                
+USC00045360  38.4917 -122.1242  146.3 CA MARKLEY COVE                                
+USC00045371  37.9700 -122.1275   70.1 CA MARTINEZ 2 S                                
+USC00045372  37.9667 -122.1000   78.9 CA MARTINEZ 3 SSE                              
+USC00045377  38.0167 -122.1333    9.1 CA MARTINEZ FIRE STN                           
+USC00045378  38.0131 -122.1142   12.2 CA MARTINEZ WTP                                
+USC00045385  39.1458 -121.5853   17.4 CA MARYSVILLE                         HCN      
+USC00045391  39.1333 -121.6000   18.0 CA MARYSVILLE D ST BRG                         
+USC00045400  37.8850 -119.8561 1374.6 CA MATHER                                      
+USC00045449  41.2517 -122.1383  985.4 CA MCCLOUD                                     
+USC00045496  37.0833 -119.4333 1366.1 CA MEADOW LAKE                                 
+USC00045502  33.5697 -116.0731  -55.8 CA MECCA FIRE STN                              
+USC00045526  36.7833 -120.3667   52.1 CA MENDOTA 1 NNW                               
+USC00045528  36.7833 -120.3667   52.1 CA MENDOTA DAM                                 
+USC00045532  37.2889 -120.5158   46.9 CA MERCED                             HCN      
+USC00045535  37.3053 -120.4858   51.8 CA MERCED 2                                    
+USC00045541  37.5333 -120.3333   98.1 CA MERCED FALLS                                
+USC00045550  36.7000 -120.8667  356.9 CA MERCEY HOT SPRINGS                          
+USC00045571  38.8167 -120.0167 1973.0 CA MEYERS 4 SW                                 
+USC00045572  38.8500 -120.0167 1934.0 CA MEYERS INSPECTION STN                       
+USC00045586  39.0500 -120.7333 1061.0 CA MICHIGAN BLUFF                              
+USC00045598  38.7478 -122.6258  341.7 CA MIDDLETOWN                                  
+USC00045599  38.7333 -122.6667  545.9 CA MIDDLETOWN 4 WSW                            
+USC00045602  35.5000 -119.8167  244.1 CA MIDDLEWATER                                 
+USC00045623  40.1414 -120.3533 1481.3 CA MILFORD LAUFMAN RS                          
+USC00045629  34.0833 -117.0333  897.0 CA MILL CREEK 2                                
+USC00045632  34.0914 -116.9364 1507.2 CA MILL CREEK INTAKE                           
+USC00045679  40.3458 -121.6092 1485.9 CA MINERAL                                     
+USC00045711  40.1817 -123.7761   81.1 CA MIRANDA 4 SE                                
+USC00045713  40.2000 -123.7667  110.0 CA MIRANDA SPENGLER RCH                        
+USC00045721  34.9436 -115.5469 1325.9 CA MITCHELL CAVERNS                            
+USC00045739  37.6436 -120.0025   26.8 CA MODESTO IRRIG DIST                          
+USC00045741  37.6256 -121.0314   27.1 CA MODESTO 2                                   
+USC00045756  35.0492 -118.1619  833.6 CA MOJAVE                                      
+USC00045758  35.0333 -118.1500  816.9 CA MOJAVE 2 ESE                                
+USC00045779  38.0000 -119.1500 1965.7 CA MONO LAKE                                   
+USC00045781  34.1500 -118.0000  171.0 CA MONROVIA                                    
+USC00045790  34.0192 -118.1053   75.0 CA MONTEBELLO                                  
+USC00045795  36.5928 -121.8556   37.2 CA MONTEREY                                    
+USC00045802  36.5928 -121.8556   37.2 CA MONTEREY WFO                                
+USC00045808  40.8500 -121.9167  653.8 CA MONTGOMERY CREEK                            
+USC00045809  40.8167 -121.9333  641.0 CA MONTGOMERY CREEK                            
+USC00045818  38.5000 -122.1167  156.1 CA MONTICELLO DAM                              
+USC00045823  34.2833 -118.8833  177.1 CA MOORPARK                                    
+USC00045840  32.6817 -116.5208  937.3 CA MORENA DAM                                  
+USC00045844  37.1333 -121.6167   70.1 CA MORGAN HILL 2 E                             
+USC00045847  37.1500 -121.7833  235.0 CA MORGAN HILL BOSSANA RC                      
+USC00045853  37.1364 -121.6025  114.3 CA MORGAN HILL                                 
+USC00045860  34.0864 -116.5622  958.6 CA MORONGO VALLEY N                            
+USC00045863  34.0333 -116.5833  780.9 CA MORONGO VALLEY                              
+USC00045866  35.3669 -120.8447   36.0 CA MORRO BAY FIRE DEPT                         
+USC00045869  35.4167 -120.8500  189.0 CA MORRO BAY 3 N                               
+USC00045890  35.4703 -115.5436 1441.7 CA MTN PASS                                    
+USC00045892  35.4592 -115.5311 1456.0 CA MTN PASS 1SE                                
+USC00045900  34.2333 -117.6500 1304.8 CA MT BALDY FC 85 G                            
+USC00045901  34.2833 -117.6167 2361.0 CA MT BALDY NOTCH                              
+USC00045903  35.4500 -118.5833 2283.9 CA MT BECKENRIDGE                              
+USC00045909  38.7500 -120.6667 1040.0 CA MT DANAHER                                  
+USC00045915  37.8792 -121.9303  661.4 CA MT DIABLO JUNCTION                          
+USC00045933  37.3433 -121.6347 1286.3 CA MT HAMILTON                                 
+USC00045940  41.7333 -121.8000 1335.9 CA MT HEBRON 11 ESE                            
+USC00045941  41.7833 -122.0447 1300.0 CA MT HEBRON RS                                
+USC00045968  32.8672 -116.4194 1804.4 CA MT LAGUNA #3                                
+USC00045973  37.0167 -121.7167  548.9 CA MT MADONNA                                  
+USC00045978  33.8000 -116.6333 2567.9 CA MT SAN JACINTO WSP                          
+USC00045980  41.3667 -122.2000 2390.9 CA MT SHASTA SKI BOWL                          
+USC00045983  41.3217 -122.3172 1101.2 CA MT SHASTA                          HCN      
+USC00045995  37.9167 -122.5667  289.6 CA MT TAMALPAIS 1 S                            
+USC00046006  34.2308 -118.0711 1740.4 CA MT WILSON CBS                               
+USC00046027  37.8978 -122.5689   67.1 CA MUIR WOODS                                  
+USC00046035  33.5333 -116.7667 1132.0 CA MURCELL RCH                                 
+USC00046056  35.7667 -120.8833  234.7 CA NACIMIENTO DAM                              
+USC00046065  38.3000 -122.2833    6.1 CA NAPA                                        
+USC00046074  38.2778 -122.2647   10.7 CA NAPA STATE HOSPITAL                HCN      
+USC00046115  34.8300 -114.5936  146.3 CA NEEDLES                                     
+USC00046119  34.8333 -114.6000  166.1 CA NEEDLES 2ND ORDER                           
+USC00046122  34.8000 -118.5833  880.9 CA NEENACH                                     
+USC00046136  39.2467 -121.0008  847.6 CA NEVADA CITY                                 
+USC00046139  39.2667 -121.0167  869.0 CA NEVADA CITY 1 N                             
+USC00046144  37.5147 -122.0325    3.0 CA NEWARK                                      
+USC00046149  34.1500 -118.9667  238.0 CA NEWBURY PARK 4 SW                           
+USC00046154  34.9456 -119.6828  658.4 CA NEW CUYAMA FIRE STN                         
+USC00046161  34.3933 -118.5939  538.0 CA NEWHALL 5NW                                 
+USC00046162  34.3869 -118.5342  375.8 CA NEWHALL S FC32CE                            
+USC00046164  34.3667 -118.5167  409.0 CA NEWHALL US RS                               
+USC00046165  34.3667 -118.5667  426.7 CA NEWHALL                                     
+USC00046168  37.2811 -121.0178   27.4 CA NEWMAN                                      
+USC00046172  37.9500 -120.5333  236.2 CA NEW MELONES DAM                             
+USC00046173  41.9833 -120.2667 1613.0 CA NEW PINE CREEK 2 E                          
+USC00046174  38.0047 -120.4864  292.6 CA NEW MELONES DAM HQ                          
+USC00046175  33.6031 -117.8836    3.0 CA NEWPORT BEACH HARBOR               HCN      
+USC00046193  38.9000 -121.5833   14.9 CA NICOLAUS                                    
+USC00046194  38.9261 -121.5447   13.1 CA NICOLAUS #2                                 
+USC00046196  33.5833 -116.4333 1229.0 CA NIGHTINGALE                                 
+USC00046197  33.2775 -115.5239  -18.3 CA NILAND                                      
+USC00046198  33.2717 -115.4772   22.9 CA NILAND 4NE                                  
+USC00046201  37.5833 -121.9667   21.3 CA NILES                                       
+USC00046207  35.0667 -120.5000  110.0 CA NIPOMO 2 NW                                 
+USC00046252  37.2328 -119.5097  806.2 CA N FK RS                                     
+USC00046256  34.1667 -118.3833  189.0 CA NORTH HOLLYWOOD                             
+USC00046263  34.2447 -118.5250  275.5 CA NORTHRIDGE CAL STATE                        
+USC00046290  38.1333 -122.7167  121.9 CA NOVATO 8 WNW                                
+USC00046305  37.8667 -120.8667   67.1 CA OAKDALE WOODWARD DAM                        
+USC00046319  33.3861 -116.7917  838.2 CA OAK GROVE RS                                
+USC00046328  41.8392 -122.8503  603.5 CA OAK KNOLL W C                               
+USC00046329  41.8500 -122.8833  518.2 CA OAK KNOLL RS #2                             
+USC00046332  37.7833 -122.1667  134.1 CA OAKLAND                                     
+USC00046333  37.8000 -122.2667   10.7 CA OAKLAND CITY HALL                           
+USC00046336  37.7983 -122.2642    9.1 CA OAKLAND MUSEUM                              
+USC00046351  38.4500 -122.4167   49.1 CA OAKVILLE 1 WNW                              
+USC00046354  38.3833 -122.4667  448.1 CA OAKVILLE 4 SW                               
+USC00046370  38.3858 -122.9661  263.7 CA OCCIDENTAL                                  
+USC00046377  33.2097 -117.3950    3.0 CA OCEANSIDE MARINA                            
+USC00046383  33.1500 -116.1333   54.9 CA OCOTILLO WELLS                              
+USC00046386  33.1553 -116.1689  118.9 CA OCOTILLO WELLS 2W                           
+USC00046390  32.7461 -116.0006  125.0 CA OCOTILLO 2                                  
+USC00046399  34.4478 -119.2275  227.1 CA OJAI                               HCN      
+USC00046432  33.9167 -117.8500  149.0 CA OLINDA                                      
+USC00046434  40.4500 -122.4000  198.1 CA OLINDA (S)                                  
+USC00046455  40.4833 -122.6167  298.1 CA ONO                                         
+USC00046458  34.0667 -117.6500  299.0 CA ONTARIO                                     
+USC00046465  34.2500 -118.1000 1296.0 CA OPIDS CAMP FC 57 BE                         
+USC00046473  33.9378 -117.8850  201.2 CA ORANGE CO RSVR                              
+USC00046476  36.6167 -119.3000  131.1 CA ORANGE COVE                                 
+USC00046498  41.3619 -124.0192   48.8 CA ORICK PRAIRIE CREEK PARK                    
+USC00046499  41.1833 -123.9167  755.9 CA ORICK 10 SE                                 
+USC00046502  37.8667 -122.1667  167.9 CA ORINDA BOWMAN                               
+USC00046506  39.7458 -122.1997   77.4 CA ORLAND                             HCN      
+USC00046508  41.3019 -123.5386  122.8 CA ORLEANS                            HCN      
+USC00046521  39.5178 -121.5531   52.1 CA OROVILLE                                    
+USC00046522  39.5167 -121.5500   82.0 CA OROVILLE 1 N                                
+USC00046523  39.4333 -121.4833  161.8 CA OROVILLE 7 SE                               
+USC00046525  39.5167 -121.5667   52.1 CA OROVILLE BRG                                
+USC00046527  39.5333 -121.4833  257.6 CA OROVILLE DAM                                
+USC00046528  39.5333 -121.5667   92.0 CA OROVILLE RS                                 
+USC00046569  34.1981 -119.1753   14.9 CA OXNARD                                      
+USC00046572  34.2067 -119.1375   15.8 CA OXNARD WFO                                  
+USC00046576  34.7000 -119.3167 1132.0 CA OZENA                                       
+USC00046583  37.0667 -121.1833  267.9 CA PACHECO PASS                                
+USC00046594  34.0500 -117.8167  210.0 CA PACIFIC COLOGE FC 356B                      
+USC00046597  38.7583 -120.5031 1051.6 CA PACIFIC HOUSE                               
+USC00046598  37.6103 -122.4842   38.1 CA PACIFICA 2S                                 
+USC00046599  37.5917 -122.4717  144.8 CA PACIFICA 4 SSE                              
+USC00046602  34.3294 -118.4006  472.4 CA PACOIMA DAM FC33A-E                         
+USC00046610  36.7150 -121.3492  275.8 CA PAICINES 4 W                                
+USC00046624  34.5883 -118.0939  796.1 CA PALMDALE                                    
+USC00046630  33.7333 -116.3833   59.4 CA PALM DESERT                                 
+USC00046635  33.8275 -116.5097  129.5 CA PALM SPRINGS                                
+USC00046642  37.4333 -122.1667   18.0 CA PALO ALTO                                   
+USC00046646  37.4436 -122.1403    7.6 CA PALO ALTO                                   
+USC00046650  36.3503 -121.5400  541.0 CA PALOMA                                      
+USC00046657  33.3781 -116.8400 1691.6 CA PALOMAR MTN OBSY                            
+USC00046663  33.7997 -118.3911   67.1 CA PALOS VERDES ES FC43D                       
+USC00046675  36.6067 -120.8842  426.7 CA PANOCHE 2 W                                 
+USC00046677  36.6833 -120.5833  113.1 CA PANOCHE CREEK                               
+USC00046678  36.5333 -120.4500  128.0 CA PANOCHE JUNCTION                            
+USC00046685  39.7539 -121.6242  533.4 CA PARADISE                                    
+USC00046699  34.2903 -114.1708  224.9 CA PARKER RESRVOIR                             
+USC00046703  35.8833 -120.4333  451.1 CA PARKFIELD                                   
+USC00046706  36.0000 -120.4667 1095.1 CA PARKFIELD 7 NNW                             
+USC00046719  34.1483 -118.1447  263.3 CA PASADENA                           HCN      
+USC00046726  39.8875 -122.5539  230.1 CA PASKENTA RS                                 
+USC00046730  35.6278 -120.6856  222.5 CA PASO ROBLES                        HCN      
+USC00046736  35.6833 -120.7500  317.0 CA PASO ROBLES 5 NW                            
+USC00046754  34.9333 -119.3833 1179.0 CA PATTIWAY                                    
+USC00046761  40.3333 -121.9000  561.1 CA PAYNES CREEK                                
+USC00046773  34.5025 -117.8969  945.2 CA PEARBLOSSOM                                 
+USC00046791  34.5167 -119.5667  494.1 CA PENDOLA GAUGING STN                         
+USC00046816  33.7833 -117.2333  448.1 CA PERRIS                                      
+USC00046818  33.7833 -117.2500  488.0 CA PERRIS 1 WSW                                
+USC00046826  38.2578 -122.6078    6.1 CA PETALUMA AP                        HCN      
+USC00046829  38.2500 -122.6333    9.1 CA PETALUMA 1 N                                
+USC00046839  36.8833 -121.1333  494.1 CA PFEIFFER RCH                                
+USC00046857  36.8000 -119.3833  177.1 CA PIEDRA                                      
+USC00046862  34.5667 -119.1667  936.0 CA PIEDRA BLANCA GAGING S                      
+USC00046891  34.6667 -118.4333 1003.1 CA PINE CANYON PS FC321E                       
+USC00046896  36.8211 -119.3375  187.5 CA PINE FLAT DAM                               
+USC00046926  36.4819 -121.1822  398.4 CA PINNACLES NP                                
+USC00046936  38.4447 -120.5122  914.4 CA PIONEER 6E                                  
+USC00046940  34.4061 -118.7569  217.0 CA PIRU 2 ESE                                  
+USC00046943  35.1597 -120.6831   11.9 CA PISMO BEACH                                 
+USC00046944  41.0000 -121.5000  877.8 CA PIT RIVER PH 1                              
+USC00046946  40.9869 -121.9772  444.4 CA PIT RVR PH 5                                
+USC00046950  38.9333 -122.8667  473.0 CA PITTS RCH                                   
+USC00046960  38.6956 -120.8244  563.9 CA PLACERVILLE                                 
+USC00046961  38.7853 -120.7419  810.2 CA PLACERVILLE 3 ENE                           
+USC00046962  38.7333 -120.7333  839.7 CA PLACERVILLE IFG                             
+USC00046963  38.7333 -120.8167  545.9 CA PLACERVILLE 1 W                             
+USC00046975  40.3667 -122.8833  688.8 CA PLATINA                                     
+USC00047000  38.4833 -120.8500  335.9 CA PLYMOUTH                                    
+USC00047009  38.9000 -123.7000   30.5 CA POINT ARENA                                 
+USC00047011  38.9500 -123.7333   18.0 CA POINT ARENA LT STN                          
+USC00047016  34.5833 -120.6500   27.1 CA POINT ARGUELLO LT STN                       
+USC00047024  35.6667 -121.2833   18.0 CA POINT PIEDRAS BLANCA                        
+USC00047050  34.0817 -117.7658  304.5 CA POMONA/FAIRPLEX                             
+USC00047070  38.0167 -122.0167   14.9 CA PORT CHICAGO NAVAL DEP                      
+USC00047077  36.0678 -119.0200  119.8 CA PORTERVILLE                                 
+USC00047085  39.8053 -120.4719 1478.3 CA PORTOLA                                     
+USC00047088  39.8000 -120.4833 1473.1 CA PORTOLA 2                                   
+USC00047095  35.8333 -118.6167 1674.0 CA POSEY 4 ENE                                 
+USC00047096  35.8000 -118.6333 1511.8 CA POSEY 3 E                                   
+USC00047105  34.6333 -119.4333 1481.9 CA POTRERO SECO                                
+USC00047106  41.2333 -121.2167 1284.1 CA POTTERS SAWMILL                             
+USC00047109  39.3619 -123.1286  310.3 CA POTTER VALLEY POWERHOUSE                    
+USC00047111  33.0194 -117.0308  197.5 CA POWAY VALLEY                                
+USC00047123  33.8903 -117.6453  170.7 CA PRADO DAM                                   
+USC00047150  36.1883 -120.6953  701.0 CA PRIEST VALLEY                               
+USC00047195  39.9367 -120.9475 1042.4 CA QUINCY                             HCN      
+USC00047197  39.9833 -120.9500 1113.1 CA QUINCY USFS HELIPORT                        
+USC00047220  34.6000 -118.5667  634.0 CA RADIUM HOT SPRINGS                          
+USC00047226  33.0500 -116.8667  442.0 CA RAMONA                                      
+USC00047228  33.0114 -116.9081  448.1 CA RAMONA FIRE DEPT                            
+USC00047231  33.0667 -116.8500  451.1 CA RAMONA SPAULDING                            
+USC00047244  33.2333 -116.5333 1253.9 CA RANCHITA                                    
+USC00047248  33.0217 -117.0814  210.3 CA RANCHO BERNARDO                             
+USC00047253  35.3692 -117.6525 1088.1 CA RANDSBURG                                   
+USC00047270  37.2094 -119.9086  280.1 CA RAYMOND                                     
+USC00047272  37.3667 -119.9000  420.9 CA RAYMOND WHIPPLE RCH                         
+USC00047273  37.3500 -119.8667  390.1 CA RAYMOND 10 N                                
+USC00047279  34.0500 -116.8167 2155.9 CA RAYWOOD FLATS                               
+USC00047293  40.1622 -122.2203   80.8 CA RED BLUFF TRTMT PLT                         
+USC00047294  40.1633 -122.2281   94.5 CA RED BLUFF #2                                
+USC00047296  40.5833 -122.4000  177.1 CA REDDING FIRE STN 2                          
+USC00047298  40.5194 -122.2989  153.0 CA REDDING CDF                                 
+USC00047300  40.5500 -122.3833  143.3 CA REDDING FIRE STN 4                          
+USC00047306  34.0369 -117.1947  429.8 CA REDLANDS                           HCN      
+USC00047314  35.3667 -117.6333 1129.0 CA RED MTN                                     
+USC00047326  33.8342 -118.3758   43.3 CA REDONDO BEACH                               
+USC00047339  37.4767 -122.2386    9.4 CA REDWOOD CITY                                
+USC00047351  39.2667 -123.2000  220.1 CA REDWOOD VALLEY                              
+USC00047370  38.6944 -121.1611   89.9 CA REPRESA                                     
+USC00047404  40.0261 -123.7931  153.3 CA RICHARDSON GR SP                            
+USC00047414  37.9192 -122.3772    6.1 CA RICHMOND                                    
+USC00047416  37.9167 -122.3333    3.0 CA RICHMOND FLD STN                            
+USC00047446  38.1500 -121.7000   11.9 CA RIO VISTA                                   
+USC00047470  33.9511 -117.3881  256.0 CA RIVERSIDE FIRE STN 3                        
+USC00047473  33.9669 -117.3614  300.5 CA RIVERSIDE CITRUS EXP                        
+USC00047516  38.8000 -121.2333   75.9 CA ROCKLIN                                     
+USC00047580  40.8167 -121.9333  641.0 CA ROUND MTN                                   
+USC00047581  40.7956 -121.9350  640.1 CA ROUND MOUNTAIN                              
+USC00047598  38.8833 -122.2333  112.5 CA RUMSEY 1 NW                                 
+USC00047600  34.2067 -117.0864 1818.1 CA RUNNING SPRINGS 1 E                         
+USC00047606  37.9500 -119.0667 1966.9 CA RUSH CREEK RCH                              
+USC00047641  39.4317 -120.2406 1931.5 CA SAGEHEN CREEK                               
+USC00047643  38.5067 -122.4714   68.6 CA SAINT HELENA                                
+USC00047646  38.4931 -122.5383  542.5 CA SAINT HELENA 4 WSW                          
+USC00047649  38.5500 -122.3833  305.1 CA SAINT HELENA 6 NE                           
+USC00047656  39.7167 -122.0000   46.0 CA SAINT JOHN                                  
+USC00047661  37.8333 -122.1000  189.0 CA SAINT MARYS COLLEGE                         
+USC00047668  36.6594 -121.6664   13.7 CA SALINAS #2                                  
+USC00047672  35.3372 -120.5039  424.3 CA SALINAS DAM                                 
+USC00047675  36.6333 -121.6833   18.3 CA SALINAS 6 SSW                               
+USC00047681  34.5850 -120.4083   77.4 CA SALSIPUEDES GAGING STN                      
+USC00047689  38.5006 -120.2189 1127.8 CA SALT SPRINGS PWR HOUSE                      
+USC00047698  40.8833 -123.5833  189.0 CA SALYER RS                                   
+USC00047702  38.1914 -120.6708  335.3 CA SAN ANDREAS 2                               
+USC00047711  34.1667 -117.6667  729.1 CA SAN ANTONIO CN MOUTH                        
+USC00047714  36.0167 -121.2500  323.1 CA SAN ANTONIO MISSION                         
+USC00047716  36.0333 -120.9000  136.9 CA SAN ARDO                                    
+USC00047719  36.5092 -121.0869  413.0 CA SAN BENITO                                  
+USC00047721  36.5833 -121.1833  299.0 CA SAN BENITO WILLOW CK                        
+USC00047723  34.1344 -117.2539  347.5 CA SAN BERNARDINO F S 226                      
+USC00047731  36.4375 -121.7092  182.9 CA SAN CLEMENTE DAM                            
+USC00047734  34.7500 -118.7167 1226.8 CA SANDBERG PTRL FC130B                        
+USC00047738  32.7167 -117.1667    7.9 CA SAN DIEGO WBO                               
+USC00047741  32.7653 -117.2314    4.3 CA SAN DIEGO SEAWORLD                          
+USC00047749  34.1053 -117.8019  292.0 CA SAN DIMAS FIRE FC 95                        
+USC00047750  34.2000 -117.7667  853.7 CA SAN DIMAS TANBARK FLAT                      
+USC00047753  35.0000 -119.1833  442.0 CA SAN EMIGDIO RCH                             
+USC00047755  37.0167 -121.3333  113.1 CA SAN FELIPE HWY STN                          
+USC00047759  34.2833 -118.4667  296.0 CA SAN FERNANDO                                
+USC00047762  34.3131 -118.4925  381.0 CA SAN FERNANDO PH 3                           
+USC00047765  37.7667 -122.4667   75.9 CA SAN FRAN ACAD OF SCI                        
+USC00047767  37.7281 -122.5053    2.4 CA SAN FRANCISCO OCEANSIDE                     
+USC00047775  34.1000 -118.1000  126.8 CA SAN GABRIEL                                 
+USC00047776  34.1553 -117.9078  226.8 CA SAN GABRIEL CANYON PH                       
+USC00047779  34.2053 -117.8608  451.4 CA SAN GABRIEL DAM FC425B-E                    
+USC00047785  34.0842 -118.1003  110.6 CA SAN GABRIEL FIRE DEPT                       
+USC00047807  37.3117 -122.3617   83.8 CA SAN GREGORIO 2 SE                           
+USC00047810  33.7833 -116.9667  470.0 CA SAN JACINTO                                 
+USC00047813  33.7964 -116.9753  464.8 CA SAN JACINTO                                 
+USC00047817  37.0908 -119.7231  320.0 CA SAN JOAQUIN EXP RANGE                       
+USC00047821  37.3594 -121.9244   14.9 CA SAN JOSE                                    
+USC00047834  36.8000 -121.5167  167.6 CA SAN JUAN BAUTISTA 3 SS                      
+USC00047836  33.5319 -117.5525  114.3 CA SAN JUAN CANYON                             
+USC00047837  33.5922 -117.5125  222.5 CA SAN JUAN GRD STN                            
+USC00047846  37.0533 -121.0578   84.4 CA SAN LUIS DAM                                
+USC00047851  35.3056 -120.6619   93.9 CA SAN LUIS OBISPO POLY               HCN      
+USC00047861  34.5500 -119.8667  244.1 CA SAN MARCOS RCH                              
+USC00047864  37.5333 -122.3000    6.1 CA SAN MATEO                                   
+USC00047866  34.0500 -120.3833  164.6 CA SAN MIGUEL ISLAND                           
+USC00047874  33.0956 -116.9975  128.0 CA SAN PASQUAL ANIMAL PK                       
+USC00047876  33.7167 -118.2667    3.0 CA SAN PEDRO                                   
+USC00047880  37.9983 -122.5372   36.6 CA SAN RAFAEL-CIVIC CTR                        
+USC00047888  33.7442 -117.8667   41.1 CA SANTA ANA FIRE STN                          
+USC00047891  34.1017 -117.1061  604.7 CA SANTA ANA RIVER PH 3                        
+USC00047894  34.1333 -117.0667  844.9 CA SANTA ANA RIVER PH 1                        
+USC00047897  34.2167 -118.0167  622.1 CA SANTA ANITA F L FC 432                      
+USC00047902  34.4167 -119.6844    4.9 CA SANTA BARBARA                      HCN      
+USC00047908  34.7833 -119.6500 1585.9 CA SANTA BARBARA POTRERO                       
+USC00047909  34.5333 -119.9500 1220.1 CA SANTA BARBARA TV PEAK                       
+USC00047912  37.3500 -121.9333   27.1 CA SANTA CLARA UNIV                            
+USC00047916  36.9878 -121.9994   21.3 CA SANTA CRUZ                         HCN      
+USC00047926  34.1125 -117.9694  135.0 CA SANTA FE DAM                                
+USC00047930  35.3667 -120.6333  366.1 CA SANTA MARGARITA 2 SW                        
+USC00047933  35.3742 -120.6375  349.9 CA SANTA MARGARITA BOOST                       
+USC00047940  34.9500 -120.4333   67.1 CA SANTA MARIA                                 
+USC00047942  35.0167 -120.2000  249.9 CA SANTA MARIA 14 ENE                          
+USC00047950  34.0167 -118.4833   18.0 CA SANTA MONICA                                
+USC00047953  34.0075 -118.4997    4.3 CA SANTA MONICA PIER                           
+USC00047957  34.3119 -119.1331   72.2 CA SANTA PAULA                                 
+USC00047962  36.3167 -120.5833 1311.9 CA SANTA RITA PEAK                             
+USC00047965  38.4558 -122.7133   50.6 CA SANTA ROSA                         HCN      
+USC00047976  34.6078 -120.0692  182.9 CA SANTA YNEZ                                  
+USC00047982  34.5333 -119.9833 1307.9 CA SANTA YNEZ LOOKOUT                          
+USC00047987  33.7869 -117.7217  260.6 CA SANTIAGO DAM                                
+USC00048014  34.5900 -118.4542  658.7 CA SAUGUS PWR PLT 1                            
+USC00048025  41.3011 -123.1331  687.3 CA SAWYERS BAR RS                              
+USC00048045  40.4833 -124.1039   41.5 CA SCOTIA                                      
+USC00048068  37.4000 -122.2333  107.0 CA SEARSVILLE LAKE                             
+USC00048072  38.4086 -122.8211   20.7 CA SEBASTOPOL                                  
+USC00048074  40.5000 -120.2667 1353.9 CA SECRET VALLEY                               
+USC00048075  40.6667 -120.2500 1421.0 CA SECRET VALLEY M S                           
+USC00048092  34.1661 -118.4736  207.3 CA SEPULVEDA DAM                               
+USC00048099  39.4167 -121.4667  192.0 CA OROVILLE 7 SE                               
+USC00048105  34.1833 -116.9500 1549.0 CA SEVEN OAKS                                  
+USC00048119  33.9167 -117.9000  110.0 CA SHAFFER TOOL WORKS BRE                      
+USC00048122  35.4867 -119.1458  123.1 CA SHAFTER 6E                                  
+USC00048135  40.7142 -122.4161  327.7 CA SHASTA DAM                                  
+USC00048158  33.9500 -117.9000  207.0 CA SHELL ABSORPTION PLT                        
+USC00048162  40.0333 -124.0667   33.5 CA SHELTER COVE                                
+USC00048163  40.0331 -124.0728   75.0 CA SHELTER COVE AVIATION                       
+USC00048173  38.6667 -120.9167  420.9 CA SHINGLE SPRINGS                             
+USC00048175  40.5000 -121.8500 1083.9 CA SHINGLETOWN 2 E                             
+USC00048200  35.9717 -116.2708  471.2 CA SHOSHONE                                    
+USC00048207  39.5678 -120.6228 1292.4 CA SIERRA CITY                                 
+USC00048210  34.1667 -118.0500  345.0 CA SIERRA MADRE HENSZEY                        
+USC00048213  34.2000 -117.6667  915.0 CA SIERRA PH                                   
+USC00048218  39.5833 -120.3706 1516.4 CA SIERRAVILLE RS                              
+USC00048230  33.7967 -118.1683   33.5 CA SIGNAL HILL FC 415                          
+USC00048243  33.7425 -117.6600  333.8 CA SILVERADO RS                                
+USC00048265  34.8333 -120.1667  182.9 CA SISQUOC RANCH                               
+USC00048266  34.7667 -119.7667  762.9 CA SISQUOC SOUTH FORK CAM                      
+USC00048272  38.6833 -123.1333  588.9 CA SKAGGS SPGS LAS LOMAS                       
+USC00048273  37.3133 -122.1850  691.9 CA SKYLINE RIDGE PRESERVE                      
+USC00048277  36.0667 -120.6500  595.0 CA SLACK CREEK                                 
+USC00048290  34.3000 -118.1167 1068.0 CA SLEEPY HOLLOW COLBY RC                      
+USC00048292  39.8667 -120.7333 1257.0 CA SLOAT                                       
+USC00048293  38.4667 -121.0833   49.1 CA SLOUGHHOUSE 6 SE                            
+USC00048311  41.9500 -124.2000    9.1 CA SMITH RIVER 3 WNW                           
+USC00048315  33.8833 -116.6833  390.1 CA SNOW CREEK                                  
+USC00048317  33.8725 -116.6797  591.3 CA SNOW CREEK UPPER                            
+USC00048320  39.3167 -120.3667 2101.0 CA SNOW LAB CNTRL SIERRAS                      
+USC00048331  39.3167 -120.3833 2058.9 CA SODA SPRINGS                                
+USC00048332  39.3256 -120.3672 2098.5 CA SODA SPRINGS 1 E                            
+USC00048338  36.4333 -121.3167   64.0 CA SOLEDAD                                     
+USC00048346  41.3833 -123.4833  159.1 CA SOMESBAR 1 W                                
+USC00048348  34.2833 -118.9667  149.0 CA SOMIS 3 NE                                  
+USC00048349  34.2833 -119.0500  153.0 CA SOMIS 3 NW                                  
+USC00048351  38.2994 -122.4622   29.6 CA SONOMA                                      
+USC00048353  37.9672 -120.3872  510.5 CA SONORA                                      
+USC00048376  37.7000 -123.0000   14.0 CA S E FARALLON                                
+USC00048380  37.5122 -119.6331 1538.3 CA SO ENTRANCE YOSEMITE NP                     
+USC00048390  34.0667 -116.8167 2172.0 CA SOUTH FORK CABIN                            
+USC00048406  37.1683 -118.5706 2920.0 CA SOUTH LAKE                                  
+USC00048407  35.6467 -118.3608  808.9 CA S LAKE FS                                   
+USC00048436  34.0419 -117.8106  206.0 CA SPADRA LANTERMAN HOSP                       
+USC00048446  36.6311 -121.6714    6.4 CA SPRECKELS HWY BRG                           
+USC00048453  36.1500 -118.7667  445.0 CA SPRINGVILLE 3 ENE                           
+USC00048455  36.1667 -118.7000  752.9 CA SPRINGVILLE 7 ENE                           
+USC00048460  36.1422 -118.8114  320.0 CA SPRINGVILLE RS                              
+USC00048463  36.1933 -118.6567 1240.5 CA SPRINGVILLE TULE HD                         
+USC00048472  40.8833 -122.1000  396.8 CA SQUAW CREEK GS                              
+USC00048473  40.8000 -122.1500  295.7 CA SQUAW CREEK RS                              
+USC00048474  39.2000 -120.2333 1902.9 CA SQUAW VALLEY                                
+USC00048476  34.2333 -117.2500 1598.1 CA SQUIRREL INN 1                              
+USC00048479  34.2333 -117.2333 1731.9 CA SQUIRREL INN 2                              
+USC00048487  40.3667 -120.4000 1229.0 CA STANDISH 1 E                                
+USC00048490  39.8778 -123.7275  260.0 CA STANDISH HICKEY SP                          
+USC00048499  38.1333 -120.3667  323.1 CA STANISLAUS PH                               
+USC00048502  39.7000 -121.3667  652.3 CA STANWOOD                                    
+USC00048517  36.9167 -121.2167  908.9 CA STAYTON MINE                                
+USC00048521  41.8667 -120.9500 1388.1 CA STEELE SWAMP                                
+USC00048544  39.9042 -121.5281 1072.9 CA STIRLING CITY RS                            
+USC00048554  37.9333 -121.3333    3.0 CA STOCKTON DISPOSAL PLT                       
+USC00048557  37.9500 -121.2667    6.1 CA STOCKTON 2                                  
+USC00048559  37.8992 -121.2514    6.7 CA STOCKTON 5 SSE                              
+USC00048560  37.9994 -121.3178    3.7 CA STOCKTON FIRE STN 4                         
+USC00048562  37.8500 -121.3833    6.1 CA STOCKTON MOWRY BRG                          
+USC00048578  39.2500 -122.6667  921.1 CA STONYFORD COOLEY RCH                        
+USC00048580  39.3753 -122.5461  356.6 CA STONYFORD                                   
+USC00048587  39.5861 -122.5342  243.8 CA STONY GORGE RSVR                            
+USC00048606  39.5319 -121.1611 1130.8 CA STRAWBERRY VALLEY 2                         
+USC00048627  35.0000 -120.3833  118.9 CA SUEY RCH                                    
+USC00048655  33.7156 -117.1900  432.8 CA SUN CITY                                    
+USC00048660  34.2667 -118.3000  445.0 CA SUNLAND                                     
+USC00048662  34.2500 -118.2833  534.0 CA SUNLAND TUJUNGA                             
+USC00048697  34.6806 -120.5364   33.5 CA SURF 2 ENE                                  
+USC00048700  34.2667 -118.6667  331.9 CA SUSANA KNOLLS                               
+USC00048701  40.4167 -120.6500 1271.9 CA SUSANVILLE                                  
+USC00048702  40.4167 -120.6631 1283.8 CA SUSANVILLE 2SW                     HCN      
+USC00048705  40.4000 -120.6667 1278.0 CA SUSANVILLE STATE RNG                        
+USC00048713  38.3772 -120.8008  483.4 CA SUTTER HILL CDF                             
+USC00048748  34.3833 -117.6833 2288.1 CA TABLE MTN                                   
+USC00048752  35.1503 -119.4300  235.6 CA TAFT                                        
+USC00048758  39.1678 -120.1428 1898.9 CA TAHOE CITY                         HCN      
+USC00048760  39.0600 -120.1292 1924.8 CA TAHOMA                                      
+USC00048781  38.6000 -119.9333 2457.9 CA TAMARACK                                    
+USC00048826  35.1333 -118.4500 1224.4 CA TEHACHAPI                                   
+USC00048829  35.1011 -118.4222 1286.3 CA TEHACHAPI 4 SE                              
+USC00048832  35.1308 -118.4325 1207.0 CA TEHACHAPI AP                                
+USC00048839  35.0233 -118.7497  434.3 CA TEJON RANCHO                       HCN      
+USC00048860  41.5833 -121.9167 1449.0 CA TENNANT                                     
+USC00048873  40.8667 -120.4333 1615.4 CA TERMO 1 E                                   
+USC00048875  40.9167 -120.2667 1634.9 CA TERMO BRIN MARR                             
+USC00048885  38.8039 -122.8128  530.4 CA THE GEYSERS                                 
+USC00048904  34.1819 -118.8986  238.7 CA THOUSAND OAKS 1 SW                          
+USC00048905  34.2167 -118.8667  246.9 CA THOUSAND OAKS                               
+USC00048914  36.4667 -118.8833  289.9 CA THREE RIVERS ED PH 2                        
+USC00048917  36.4650 -118.8619  347.5 CA THREE RIVERS EDISON PH 1                    
+USC00048928  38.4461 -120.4992  717.8 CA TIGER CREEK PH                              
+USC00048963  34.1333 -118.3167  396.8 CA TOPANGA CANYON WOODLAN                      
+USC00048967  34.0842 -118.5989  227.1 CA TOPANGA PATROL FC-6                         
+USC00048969  38.6000 -119.4833 1539.8 CA TOPAZ                                       
+USC00048970  38.6667 -119.5500 1537.1 CA TOPAZ LAKE                                  
+USC00048992  33.6583 -117.5894  295.7 CA TRABUCO CANYON                              
+USC00048996  37.7833 -121.4333    3.0 CA TRACY                                       
+USC00048999  37.6819 -121.3467   41.1 CA TRACY CARBONA                               
+USC00049001  37.7958 -121.5831   18.6 CA TRACY PUMPING PLT                           
+USC00049023  41.0000 -122.6833  702.0 CA TRINITY CTR RS                              
+USC00049024  40.8000 -122.7667  762.9 CA TRINITY DAM VISTA POIN                      
+USC00049026  40.7264 -122.7947  567.2 CA TRINITY RVR HATCHERY                        
+USC00049035  35.7636 -117.3908  516.6 CA TRONA                                       
+USC00049040  39.3181 -120.1450 1798.3 CA TRUCKEE-TAHOE AP                            
+USC00049043  39.3331 -120.1730 1774.9 CA TRUCKEE RS                                  
+USC00049047  34.2667 -118.2833  554.7 CA TUJUNGA                                     
+USC00049049  34.3833 -118.0833 1415.8 CA TUJUNGA MILL FC 470                         
+USC00049050  34.3833 -118.0833 1508.8 CA TUJUNGA SUMMIT FC 1029                      
+USC00049052  35.1500 -119.0167   92.0 CA TULEFIELD                                   
+USC00049053  41.9600 -121.4744 1230.8 CA TULELAKE                                    
+USC00049056  41.9167 -121.5667 1229.0 CA TULELAKE 5 WSW                              
+USC00049063  37.8769 -119.3436 2649.9 CA TUOLUMNE MEADOWS RS                         
+USC00049065  37.8333 -120.1000  951.9 CA TUOLUMNE GROVELAND RS                       
+USC00049073  37.5019 -120.8456   31.4 CA TURLOCK #2                                  
+USC00049083  40.7667 -122.3000  326.1 CA TURNTABLE CREEK                             
+USC00049087  33.7025 -117.7539   71.6 CA TUSTIN IRVINE RCH                  HCN      
+USC00049099  34.1281 -116.0369  602.0 CA TWENTYNINE PALMS                            
+USC00049102  34.1206 -115.8500  419.4 CA TWENTYNINE PALMS 12E - WONDER               
+USC00049105  38.7086 -120.0403 2438.4 CA TWIN LAKES                                  
+USC00049111  34.9881 -120.3211  177.4 CA TWITCHELL DAM                               
+USC00049122  39.1467 -123.2103  193.9 CA UKIAH                              HCN      
+USC00049124  39.1267 -123.2719  404.8 CA UKIAH 4 WSW                                 
+USC00049125  39.1167 -123.2500  427.0 CA UKIAH 4 SW                                  
+USC00049126  39.1500 -123.2833  473.0 CA UKIAH 4 W                                   
+USC00049138  33.9333 -117.8667  217.0 CA UNION OIL STEARNS ABS                       
+USC00049152  34.0697 -118.4428  131.1 CA U C L A                                     
+USC00049157  34.1333 -117.6833  561.1 CA UPLAND                                      
+USC00049158  34.1333 -117.6500  491.0 CA UPLAND 3 N                                  
+USC00049167  39.1833 -123.0333  476.7 CA UPPER LAKE 7 W                              
+USC00049173  39.1906 -122.8964  406.9 CA UPPER LAKE 2 N                              
+USC00049177  40.2500 -124.1833   77.7 CA UPPER MATTOLE                               
+USC00049182  39.2333 -121.2667  177.1 CA HARRY ENGLEBRIGHT DM                        
+USC00049185  37.7719 -122.1675  120.1 CA UPPER SAN LEANDRO FILTERS                   
+USC00049189  36.6333 -121.0333  616.0 CA UPPER TRES PINOS                            
+USC00049200  38.3956 -121.9608   33.5 CA VACAVILLE                          HCN      
+USC00049219  38.1000 -122.1869  103.9 CA VALLEJO                                     
+USC00049221  35.8833 -120.7000  292.9 CA VALLETON                                    
+USC00049226  33.2217 -117.0381  393.2 CA VALLEY CTR 1N                               
+USC00049228  33.3000 -117.0333  512.1 CA VALLEY CTR 6 N                              
+USC00049232  33.2333 -117.0167  424.0 CA VALLEY CTR 2 NNE                            
+USC00049250  34.4500 -117.8667 1097.9 CA VALYERMO FIRE STN 79                        
+USC00049251  34.4500 -117.8500 1129.0 CA VALYERMO RS                                 
+USC00049260  34.1833 -118.4500  211.8 CA VAN NUYS FC15A                              
+USC00049273  38.6086 -123.0181  384.0 CA VENADO                                      
+USC00049285  34.2825 -119.2919   32.0 CA VENTURA                                     
+USC00049298  39.5214 -120.0269 1654.8 CA VERDI 2W                                    
+USC00049325  34.5292 -117.2928  877.8 CA VICTORVILLE                                 
+USC00049345  34.4883 -118.1419  962.3 CA VINCENT FS FC 120                           
+USC00049351  39.8056 -120.1858 1508.8 CA VINTON                                      
+USC00049367  36.3283 -119.2997   92.4 CA VISALIA                                     
+USC00049377  33.2500 -117.2500   36.9 CA VISTA                                       
+USC00049378  33.2353 -117.2322  131.1 CA VISTA                                       
+USC00049379  33.2000 -117.2500  121.9 CA VISTA 1 W                                   
+USC00049382  38.9833 -120.7833  926.9 CA VOLCANOVILLE                                
+USC00049386  40.9500 -122.4500  409.0 CA VOLLMERS                                    
+USC00049390  40.4583 -121.8664  676.7 CA VOLTA PH                                    
+USC00049418  38.2000 -120.9667  100.9 CA WALLACE                                     
+USC00049420  37.9500 -122.0833   36.9 CA WALMAR SCHOOL                               
+USC00049423  37.8833 -122.0333   74.7 CA WALNUT CREEK 2 ESE                          
+USC00049426  37.9000 -122.0167   67.1 CA WALNUT CREEK 2 ENE                          
+USC00049427  37.9000 -121.9833  121.9 CA WALNUT CREEK 4 E                            
+USC00049428  38.2333 -121.5167    6.1 CA WALNUT GROVE                                
+USC00049431  34.0017 -117.8658  148.7 CA WALNUT NI FC102C                            
+USC00049440  38.7161 -122.9975   68.3 CA WARM SPRINGS DAM                            
+USC00049447  33.2833 -116.6333  969.9 CA WARNER SPRINGS                              
+USC00049452  35.5892 -119.3519   88.7 CA WASCO                              HCN      
+USC00049456  34.9667 -119.8667  719.3 CA WASIOJA FORBES RANCH                        
+USC00049468  36.8833 -121.8000   21.0 CA WATSONVILLE 3 SW                            
+USC00049473  36.9308 -121.7692   29.0 CA WATSONVILLE WTR WKS                         
+USC00049481  37.5333 -119.6667 1189.9 CA WAWONA                                      
+USC00049482  37.5400 -119.6522 1214.6 CA WAWONA RS                                   
+USC00049490  40.7353 -122.9442  627.3 CA WEAVERVILLE                        HCN      
+USC00049498  41.4333 -122.3833 1071.1 CA WEED                                        
+USC00049499  41.4333 -122.3833 1093.9 CA WEED FIRE DEPT                              
+USC00049512  35.6667 -118.3000  816.9 CA WELDON 1 WSW                                
+USC00049526  40.2667 -120.0667 1232.0 CA WENDEL 10 SE                                
+USC00049540  39.9333 -121.5333  982.1 CA WEST BRANCH                                 
+USC00049560  36.2272 -119.9967   86.9 CA WESTHAVEN                                   
+USC00049582  38.3775 -120.5453  845.8 CA W PT                                        
+USC00049583  38.3833 -120.5667  723.0 CA WEST POINT 3 SW                             
+USC00049599  40.3000 -121.0000 1545.9 CA WESTWOOD                                    
+USC00049600  40.3000 -121.0500 1521.9 CA WESTWOOD 3 WSW                              
+USC00049604  39.0167 -121.4333   25.6 CA WHEATLAND                                   
+USC00049605  39.0278 -121.3908   32.0 CA WHEATLAND 2 NE                              
+USC00049612  39.8833 -123.9167   14.9 CA WHEELER                                     
+USC00049615  34.4833 -119.3000  266.7 CA WHEELER SPRINGS 2 SSW                       
+USC00049618  34.6000 -119.3333 1264.9 CA WHEELER SPRINGS 7 N                         
+USC00049620  40.6333 -122.5500  331.9 CA WHISKEYTOWN                                 
+USC00049621  40.6117 -122.5281  394.7 CA WHISKEYTOWN RSVR                            
+USC00049632  37.5000 -118.1833 3093.7 CA WHITE MTN 1                                 
+USC00049633  37.5833 -118.2333 3800.9 CA WHITE MTN 2                                 
+USC00049639  38.5667 -121.0833  107.0 CA WHITE ROCK                                  
+USC00049660  33.9758 -118.0222  135.9 CA WHITTIER CITY YARD FC106C                   
+USC00049671  36.2656 -117.1853 1249.7 CA WILDROSE RS                                 
+USC00049677  39.1500 -122.1500   25.9 CA WILLIAMS                                    
+USC00049684  39.4194 -123.3425  412.4 CA WILLITS 1 NE                                
+USC00049685  39.3500 -123.3167  586.7 CA WILLITS HOWARD FOREST                       
+USC00049691  41.8333 -120.7500 1585.9 CA WILLOW CREEK RCH                            
+USC00049694  40.9467 -123.6364  141.4 CA WILLOW CREEK 1 NW                           
+USC00049699  39.5231 -122.3047   71.3 CA WILLOWS 6 W                        HCN      
+USC00049700  39.5333 -122.2000   43.0 CA WILLOWS USBR                                
+USC00049722  33.7167 -117.0833  451.1 CA WINCHESTER                                  
+USC00049742  38.5253 -121.9778   41.1 CA WINTERS                                     
+USC00049754  35.7167 -118.4500  833.0 CA WOFFORD HTS KERNVILLE                       
+USC00049758  39.0167 -121.0833  396.8 CA WOLF                                        
+USC00049775  38.7833 -119.8000 1722.1 CA WOODFORDS                                   
+USC00049781  38.6828 -121.7939   20.4 CA WOODLAND 1 WNW                              
+USC00049785  34.1819 -118.5744  240.8 CA WOODLAND HILLS PIERCE COLLEGE               
+USC00049792  37.4286 -122.2561  115.8 CA WOODSIDE FIRE STN 1                         
+USC00049814  37.1333 -121.9500  487.7 CA WRIGHTS                                     
+USC00049822  34.3617 -117.6386 1828.8 CA WRIGHTWOOD                                  
+USC00049847  33.8900 -117.8189  106.7 CA YORBA LINDA                                 
+USC00049851  38.9053 -123.2314  335.3 CA YORKVILLE                                   
+USC00049855  37.7503 -119.5897 1224.7 CA YOSEMITE PARK HQ                   HCN      
+USC00049859  38.3950 -122.3567   29.0 CA YOUNTVILLE                                  
+USC00049866  41.7031 -122.6414  825.7 CA YREKA                              HCN      
+USC00049881  35.4000 -115.8167 1204.9 CA YUCCA GROVE                                 
+USC00049884  34.2183 -116.4072 1050.0 CA YUCCA MESA                                  
+USC00049888  34.1294 -116.3878  990.3 CA YUCCA VALLEY                                

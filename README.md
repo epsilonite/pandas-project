@@ -26,6 +26,9 @@ Does ignition source influence the beginning and end of fire season?
 ### Datasets
 Calfire: https://data.ca.gov/dataset/california-fire-perimeters-1950
 
+NRT VIIRS 375 m Active Fire product VNP14IMGT distributed from NASA FIRMS. Available on-line https://earthdata.nasa.gov/firms. doi:10.5067/FIRMS/VIIRS/VNP14IMGT_NRT.002
+https://firms.modaps.eosdis.nasa.gov/content/academy/data_api/firms_api_use.html, https://www.earthdata.nasa.gov/learn/find-data/near-real-time/firms/vnp14imgtdlnrt#ed-viirs-375m-attributes
+
 Huffman, G.J., E.F. Stocker, D.T. Bolvin, E.J. Nelkin, Jackson Tan (2023), GPM IMERG Final Precipitation L3 1 month 0.1 degree x 0.1 degree V07, Greenbelt, MD, Goddard Earth Sciences Data and Information Services Center (GES DISC), Accessed: [20240711], 10.5067/GPM/IMERG/3B-MONTH/07 https://disc.gsfc.nasa.gov/datasets/GPM_3IMERGM_07/summary
 
 Daymet: Daily Surface Weather Data on a 1-km Grid for North America, Version 4 R1 https://doi.org/10.3334/ORNLDAAC/2129

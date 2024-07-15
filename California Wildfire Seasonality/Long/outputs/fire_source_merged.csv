@@ -1,14 +1,14 @@
 Causes,Average Duration (days),Average GIS Acres,Number of Occurences (Overall)
-Lightning,285.75,75275.32,667
-Powerline,29.59,66131.86,187
-Campfire,39.480000000000004,20556.82,81
-Arson,49.12,10849.060000000001,164
-Vehicle,27.01,9930.539999999999,292
-Equipment Use,38.03,3139.57,385
-Playing with fire,13.120000000000001,2565.93,34
-Debris,40.21,2328.87,127
-Escaped Prescribed Burn,14.04,1531.81,21
-Smoking,25.5,638.93,20
-Structure,10.7,514.0,12
-Railroad,4.0,261.42,5
-Aircraft,0.0,3.08,2
+Aircraft,0.0,0.385,0.25
+Arson,5.58,1121.86375,17.125
+Campfire,4.66625,2561.55,8.5
+Debris,4.835,195.0375,14.0
+Equipment Use,4.30375,323.67625,41.0
+Escaped Prescribed Burn,1.755,191.47625,2.625
+Lightning,31.283749999999998,8992.310000000001,66.75
+Playing with fire,1.5462500000000001,319.57,3.75
+Powerline,3.13625,8204.3925,19.375
+Railroad,0.5,32.6775,0.625
+Smoking,2.8125,78.375,2.375
+Structure,1.3375,64.25,1.5
+Vehicle,2.6125000000000003,769.35,30.625

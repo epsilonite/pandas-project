@@ -3,6 +3,8 @@ config.py
 api_keys.py
 api_key.py
 
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

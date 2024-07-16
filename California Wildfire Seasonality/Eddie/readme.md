@@ -17,4 +17,4 @@ Next, we grouped this filtered data by month to analyze trends and patterns over
 
 For the 2013 monthly summary, we continued this data processing workflow in another Jupyter Notebook. Using pandas, we finalized the data for the entire year, creating a comprehensive monthly summary. This summary DataFrame included the total number of fire incidents and the total acres burned for each month, providing a clear overview of fire activity throughout 2013. This detailed monthly summary helped us identify seasonal trends and assess the impact of fire incidents over the year.
 
-![monthlysummary2013.png]https://github.com/epsilonite/pandas-project/blob/main/California%20Wildfire%20Seasonality/Eddie/outputs/monthly_summary_2013.png![image](https://github.com/user-attachments/assets/dc4b985d-1e9f-4a11-a4c4-8c269a540c49)
+![monthlysummary2013.png]

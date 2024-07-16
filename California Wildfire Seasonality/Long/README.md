@@ -26,6 +26,7 @@ We created barcharts to display the Average Duration for each cause to compare o
 
 We created boxplots to show the range of the acres spread and duration for each cause as well. Although we had the averages the boxplot showed a better representation of the the data as a whole taking in consideration of the outliers in the data. 
 ![Duration_boxplot_all.png](https://github.com/epsilonite/pandas-project/blob/long_branch/California%20Wildfire%20Seasonality/Long/outputs/Duration_boxplot_all.png)
+
 ![acres_boxplot_all.png](https://github.com/epsilonite/pandas-project/blob/long_branch/California%20Wildfire%20Seasonality/Long/outputs/acres_boxplot_all.png)
 
 

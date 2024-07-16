@@ -25,3 +25,9 @@ For the 2013 monthly summary, we continued this data processing workflow in anot
 
 ![monthlysummary2013.png](https://github.com/epsilonite/pandas-project/blob/main/California%20Wildfire%20Seasonality/Eddie/outputs/monthly_summary_2013.png)
 
+### Bigger Data / Efficient Coding
+
+I shifted focus to include rain data due to the updated and expanded data collection. Our database grew significantly, incorporating both fire and rain data, which were merged into a single JSON format encompassing all years. This consolidation allowed for a more holistic analysis of the interplay between rainfall and fire incidents.
+
+By using a single set of Jupyter Notebooks with pandas, I streamlined the code to facilitate easier navigation through the data spanning multiple years. This approach not only improved efficiency but also ensured consistency in the analysis process. With the enhanced workflow, I was able to generate visualizations more effectively, creating comprehensive images and graphs that illustrated key insights. This integrated approach provided a clearer understanding of the correlation between fire incidents and rainfall over time, leveraging the power of pandas for robust data analysis and visualization.
+

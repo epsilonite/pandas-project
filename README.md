@@ -2,13 +2,13 @@
 # California Wildfire Seasonality
 ## Members:
 
-**Be Han:** Github Master, Data Administrator
+**Be Han:** Github+Data Administrator / Data Engineer
 
 **Eduardo Almonte:** Data Analyst / Data Visualization
 
-**Jennifer Jaurequi:** Data Analyst
+**Jennifer Jaurequi:** Data Analyst / Data Visualization
 
-**Long Le:** Data Analyst /Data Visualization
+**Long Le:** Data Analyst / Data Visualization
 
 ## Overview: 
 Relationship between rainfall timing and volume vs fires and damage / acreage spread, and see if there are direct human contributions, ie. type of ignition source and proximity to infrastructure (powerlines, highways, political regions, fire fighting infrastructure)

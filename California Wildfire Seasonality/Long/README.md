@@ -28,5 +28,3 @@ We created boxplots to show the range of the acres spread and duration for each 
 ![Duration_boxplot_all.png](https://github.com/epsilonite/pandas-project/blob/long_branch/California%20Wildfire%20Seasonality/Long/outputs/Duration_boxplot_all.png)
 
 ![acres_boxplot_all.png](https://github.com/epsilonite/pandas-project/blob/long_branch/California%20Wildfire%20Seasonality/Long/outputs/acres_boxplot_all.png)
-
-

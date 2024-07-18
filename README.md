@@ -15,9 +15,6 @@ Wildfires in California and the greater Pacific Northwest, has immense financial
 ## Contents
 [Methodolology and Process](#methodology-and-process)<br>
 [Data Acquisition](#data-acquisition)<br>
-[Data Processing](#data-processing)<br>
-[Data Visualization](#data-visualization)<br>
-[Results](#results)<br>
 [Acknowledgements](#acknowledgements--citations)
 
 ---

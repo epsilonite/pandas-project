@@ -1,10 +1,9 @@
-# California Wildfire Seasonality
+# California Wildfire Analysis
 ## Author: Eduardo Almonte, July 15, 2024
 ---
 ### Project Overview & Research Question
 
 Relationship between rainfall timing and volume vs fires and damage / acreage spread, and see if there are direct human contributions by looking at wildfire causes)
-
 Is there a correlation between the length of fire season and rainy season?  Is there a correlation between density of rainfall and density of fire season?
 
 ### Data Pulling

@@ -23,7 +23,7 @@ Wildfires in California and the greater Pacific Northwest, has immense financial
 ---
 ## Methodology and Process:
 
-This project analyzes wildfire data from California covering the period from 2020 to 2023. The analysis includes a detailed examination of fire occurrences, categorized by cause and year. Key insights include a notable decrease in fires in 2020, which was consistent with reduced lightning activity and pandemic-related lockdowns. In contrast, 2021 saw a surge in fires, particularly from unknown causes, while lightning activity dropped significantly in 2022. The project visualizes these trends through various charts and plots, providing a comprehensive overview of the factors influencing wildfire frequency and severity over these years.
+TBD
 
 ### Initial Questions:
 Is there a correlation between the length of fire season and rainy season?  Is there a correlation between density of rainfall and density of fire season?
@@ -38,29 +38,35 @@ Average acreage spread per cause<br>
 Look at human infrastructure layers<br>
 
 ## Data Acquisition
-Data was collected from 4 different sources: CalFire, NOAA NCEI, NASA FIRMS, NASA GESDISC.
-
-
+Data was collected from 4 different sources: CalFire, NOAA NCEI, NASA FIRMS, NASA GESDISC, using `pandas` and `wget`
 
 ### Datasets
-Calfire: https://data.ca.gov/dataset/california-fire-perimeters-1950
 
-NRT VIIRS 375 m Active Fire product VNP14IMGT distributed from NASA FIRMS. Available on-line https://earthdata.nasa.gov/firms. doi:10.5067/FIRMS/VIIRS/VNP14IMGT_NRT.002
-https://firms.modaps.eosdis.nasa.gov/content/academy/data_api/firms_api_use.html, https://www.earthdata.nasa.gov/learn/find-data/near-real-time/firms/vnp14imgtdlnrt#ed-viirs-375m-attributes
+#### CALFIRE:
+https://data.ca.gov/dataset/california-fire-perimeters-1950
+https://gis.data.cnra.ca.gov/datasets/CALFIRE-Forestry::california-fire-perimeters-1950/explore?location=37.569332%2C-122.356309%2C12.00&showTable=true
 
+#### NOAA NCEI:
+Menne, Matthew J., Imke Durre, Bryant Korzeniewski, Shelley McNeill, Kristy Thomas, Xungang Yin, Steven Anthony, Ron Ray, Russell S. Vose, Byron E.Gleason, and Tamara G. Houston (2012): Global Historical Climatology Network - Daily (GHCN-Daily), Version 32. FIPS:06 PRCP.
+NOAA National Climatic Data Center. doi:10.7289/V5D21VHZ [2024-07].<br>
+Matthew J. Menne, Imke Durre, Russell S. Vose, Byron E. Gleason, and Tamara G. Houston, 2012: An Overview of the Global Historical Climatology Network-Daily Database. J. Atmos. Oceanic Technol., 29, 897-910. doi:10.1175/JTECH-D-11-00103.1.
+
+https://www.ncdc.noaa.gov/cdo-web/webservices/v2#data
+https://www.ncei.noaa.gov/pub/data/cdo/documentation/GHCND_documentation.pdf
+https://www1.ncdc.noaa.gov/pub/data/ghcn/daily/readme.txt
+
+#### NASA FIRMS:
+NRT VIIRS 375 m Active Fire product VNP14IMGT distributed from NASA FIRMS. Available on-line https://earthdata.nasa.gov/firms. doi:10.5067/FIRMS/VIIRS/VNP14IMGT_NRT.002 
+
+https://firms.modaps.eosdis.nasa.gov/content/academy/data_api/firms_api_use.html
+https://www.earthdata.nasa.gov/s3fs-public/2024-07/VIIRS_C2_AF-375m_User_Guide_1.0.pdf
+https://www.earthdata.nasa.gov/learn/find-data/near-real-time/firms/vnp14imgtdlnrt#ed-viirs-375m-attributes
+
+#### NASA GESDISC:
 Huffman, G.J., E.F. Stocker, D.T. Bolvin, E.J. Nelkin, Jackson Tan (2023), GPM IMERG Final Precipitation L3 1 month 0.1 degree x 0.1 degree V07, Greenbelt, MD, Goddard Earth Sciences Data and Information Services Center (GES DISC), Accessed: [20240711], 10.5067/GPM/IMERG/3B-MONTH/07 https://disc.gsfc.nasa.gov/datasets/GPM_3IMERGM_07/summary
 
-Daymet: Daily Surface Weather Data on a 1-km Grid for North America, Version 4 R1 https://doi.org/10.3334/ORNLDAAC/2129
-https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=2131, https://daymet.ornl.gov/single-pixel/api#/default/get_api_data, https://daymet.ornl.gov/single-pixel/
 
-## Data Processing
 
-## Data Analysis
-
-## Data Visualization
-
-## Results
-Ignition source has a great influence on the duration of the fire and the acreage spread of fire. After researching and analyzing 8 years of fire activities in California. We found that lightning has the most impact overall with its duration lasting the longest before being contained and its acreage spread being one of the greatest compared to the other sources (as displayed on the boxplot). We also analyzed man-made cause vs. natural causes and the result was still the same with natural (lightning) having the higher average duration, and acreage spread, though their highs and low points were relatively equal (display box plot man vs nat duration and acreage). Although it seems that the natural source of fire has a bigger impact than man-made fires, we have no control over them. Our data showed that man-made fire incidents makes up 67.99% of fire incidents in California throughout the year and is responsible for 27.33% of the fire acreage spread amounting to around 239,151 acres a year. 
 
 ## Acknowledgements + Citations
 US State Boundaries as geojson polygon from https://public.opendatasoft.com/explore/dataset/us-state-boundaries/export/

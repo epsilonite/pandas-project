@@ -27,17 +27,20 @@ This project analyzes wildfire data from California covering the period from 202
 
 ### Initial Questions:
 Is there a correlation between the length of fire season and rainy season?  Is there a correlation between density of rainfall and density of fire season?
-- Duration of overall fire season
-- Average duration per county
-- Pull fire data by acreage: Find sum area damaged by wildfire and compare to difference in rainfall compared to historic average for at least 3 yrs (as far as data allows)
-- Look at rainfall (beginning, end and monthly density ) and compare to fire season (beginning, end and monthly density) for at least 3 yrs (as far as data allows)
+>Duration of overall fire season<br>Average duration per county<br>
+Fire data by acreage: Find sum area damaged by wildfire and compare to difference in rainfall compared to historic average for at least 3 yrs (as far as data allows)<br>
+Look at rainfall (beginning, end and monthly density ) and compare to fire season (beginning, end and monthly density) for at least 3 yrs (as far as data allows)
+
 Does ignition source influence the beginning and end of fire season?
-- Cause (natural, manmade, etc)
-- Average duration per cause/incident
-- Average acreage spread per cause 
-- Look at human infrastructure layers
+>Cause (natural, manmade, etc)<br>
+Average duration per cause/incident<br>
+Average acreage spread per cause<br>
+Look at human infrastructure layers<br>
 
 ## Data Acquisition
+Data was collected from 4 different sources: CalFire, NOAA NCEI, NASA FIRMS, NASA GESDISC.
+
+
 
 ### Datasets
 Calfire: https://data.ca.gov/dataset/california-fire-perimeters-1950

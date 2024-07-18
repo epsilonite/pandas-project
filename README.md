@@ -1,18 +1,31 @@
-# pandas-project
-# California Wildfire Seasonality
-## Members:
+### pandas-project
+---
+# California Wildfire Analysis
 
-**Be Han:** Github+Data Administrator / Data Engineer
-
-**Eduardo Almonte:** Data Analyst / Data Visualization
-
-**Jennifer Jaurequi:** Data Analyst / Data Visualization
-
+**Be Han:** Github+Data Administrator / Data Engineer<br>
+**Eduardo Almonte:** Data Analyst / Data Visualization<br>
+**Jennifer Jaurequi:** Data Analyst / Data Visualization<br>
 **Long Le:** Data Analyst / Data Visualization
 
+---
 ## Overview: 
-Relationship between rainfall timing and volume vs fires and damage / acreage spread, and see if there are direct human contributions, ie. type of ignition source and proximity to infrastructure (powerlines, highways, political regions, fire fighting infrastructure)
-### Initial Questions: 
+Wildfires in California and the greater Pacific Northwest, has immense financial, environmental, and health impacts at both the individual and societal level. As a team, we are interested in growing our awareness and understanding of wildfires by exploring the factors that may contribute to the phenomena in order to contribute to mitigation strategies. Our initial inquiry will be to analyze wildfires by ignition source to identify what mitigation strategies are possible, then to search for correlations between fire season and precipitation to inform future research into creating predictive models for wildfires.
+
+---
+## Contents
+[Methodolology and Process](#methodology-and-process)<br>
+[Data Acquisition](#data-acquisition)<br>
+[Data Processing](#data-processing)<br>
+[Data Visualization](#data-visualization)<br>
+[Results](#results)<br>
+[Acknowledgements](#acknowledgements--citations)
+
+---
+## Methodology and Process:
+
+This project analyzes wildfire data from California covering the period from 2020 to 2023. The analysis includes a detailed examination of fire occurrences, categorized by cause and year. Key insights include a notable decrease in fires in 2020, which was consistent with reduced lightning activity and pandemic-related lockdowns. In contrast, 2021 saw a surge in fires, particularly from unknown causes, while lightning activity dropped significantly in 2022. The project visualizes these trends through various charts and plots, providing a comprehensive overview of the factors influencing wildfire frequency and severity over these years.
+
+### Initial Questions:
 Is there a correlation between the length of fire season and rainy season?  Is there a correlation between density of rainfall and density of fire season?
 - Duration of overall fire season
 - Average duration per county
@@ -23,6 +36,9 @@ Does ignition source influence the beginning and end of fire season?
 - Average duration per cause/incident
 - Average acreage spread per cause 
 - Look at human infrastructure layers
+
+## Data Acquisition
+
 ### Datasets
 Calfire: https://data.ca.gov/dataset/california-fire-perimeters-1950
 
@@ -34,5 +50,17 @@ Huffman, G.J., E.F. Stocker, D.T. Bolvin, E.J. Nelkin, Jackson Tan (2023), GPM I
 Daymet: Daily Surface Weather Data on a 1-km Grid for North America, Version 4 R1 https://doi.org/10.3334/ORNLDAAC/2129
 https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=2131, https://daymet.ornl.gov/single-pixel/api#/default/get_api_data, https://daymet.ornl.gov/single-pixel/
 
+## Data Processing
+
+## Data Analysis
+
+## Data Visualization
+
+## Results
+
 ## Acknowledgements + Citations
 US State Boundaries as geojson polygon from https://public.opendatasoft.com/explore/dataset/us-state-boundaries/export/
+
+
+
+

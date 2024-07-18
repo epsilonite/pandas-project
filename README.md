@@ -1,5 +1,4 @@
 ### pandas-project
----
 # California Wildfire Analysis
 
 **Be Han:** Github+Data Administrator / Data Engineer<br>

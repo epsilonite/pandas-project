@@ -20,8 +20,6 @@ Wildfires in California and the greater Pacific Northwest, has immense financial
 ---
 ## Methodology and Process:
 
-TBD
-
 ### Initial Questions:
 Is there a correlation between the length of fire season and rainy season?  Is there a correlation between density of rainfall and density of fire season?
 >Duration of overall fire season<br>Average duration per county<br>

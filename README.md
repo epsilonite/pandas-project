@@ -57,6 +57,7 @@ https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=2131, https://daymet.ornl.gov/si
 ## Data Visualization
 
 ## Results
+Ignition source has a great influence on the duration of the fire and the acreage spread of fire. After researching and analyzing 8 years of fire activities in California. We found that lightning has the most impact overall with its duration lasting the longest before being contained and its acreage spread being one of the greatest compared to the other sources (as displayed on the boxplot). We also analyzed man-made cause vs. natural causes and the result was still the same with natural (lightning) having the higher average duration, and acreage spread, though their highs and low points were relatively equal (display box plot man vs nat duration and acreage). Although it seems that the natural source of fire has a bigger impact than man-made fires, we have no control over them. Our data showed that man-made fire incidents makes up 67.99% of fire incidents in California throughout the year and is responsible for 27.33% of the fire acreage spread amounting to around 239,151 acres a year. 
 
 ## Acknowledgements + Citations
 US State Boundaries as geojson polygon from https://public.opendatasoft.com/explore/dataset/us-state-boundaries/export/
